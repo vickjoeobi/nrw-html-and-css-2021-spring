@@ -1,18 +1,8 @@
 ![ReDI](redi_banner.png)
 
-# Welcome to HTML & CSS course of NRW
+# Welcome to HTML & CSS course of NRW (2021 Spring)
 
 In this course we will learn how websites are made and teach you how to build your own.
-
-## Teachers
-
-* Vincent
-* Seun
-* Jessica
-* Heni
-* Baris
-
-## About the ReDI theme
 
 Note this website uses Just The Docs, a well-known Jekyll theme, customized with ReDI colors and logos.
 

@@ -1,56 +1,50 @@
+(This is a recommended student notes structure. Please follow it and feel free to extend if you feel that you need to. But also make sure to at least contain the following sections.)
+
+(Also keep in mind that these student notes are not a must for how the class should be taught. You as a teacher can choose how to teach the class but also make sure to hand out the student notes, as well.)
+
+# Session Title
+
+## Class Agenda
+
+1. Intro to...
+2. HTML Tags..
+3. ...etc
+
+## 1. Intro to ...
+
+HTML is...
+
+## 2. HTML Tags ...
+
+HTML tags are...
+
+## 3. Section 3...
+
+# Exercise Description
+
+(a short explanation of what exercises are done during the class)
+
+- Download VS Code
+- Make a short Hello World example
+
+# Terms
+
+(please give related terms and vocabulary that you taught during the class)
+
+- `html tag` - An html tag is
+- `hypertext` - Hypertext means this and that
+- `...` - ...
+
 ---
-title: Intro
-nav_order: 2
----
 
-# Website Analysis
+# Homework
 
-All websites are different because they serve different purposes. However, they share common structural elements,
-both on their visual aspect and their code.
+For next session please prepare this and that, etc...
 
-Most websites have their logos on the top left corner or the top center. The navigation is either on a top bar or on a
-left column (or right-to-left languages is similar but on the other side). This is called consistency and you can see
-it everywhere: a VW Golf and a Porsche are cars made for different purposes but they have a steering wheel on the left
-side, three pedals and a shift stick (OK, they can have two pedals if they're automatic but they don't have 5 pedals and
-a joystick).
+# Resources
 
-Here we can review different websites, the audience they serve and the common structure elements they share. We will see
-later that most of these elements are variations of a few HTML tags.
+(please make sure to give links)
 
-![Google homepage](google.jpg)
-
-# What We Need
-
-## Visual Studio Code
-
-Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for
-Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich
-ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET)
-You can learn more and also download it from [https://code.visualstudio.com/](https://code.visualstudio.com/).
-
-![Visual Studio Code](vscode.png)
-
-## Browser
-
-There are many browsers in the market: Chrome, Firefox, Safari, Opera, Internet Explorer, Edge and a few other ones. We
-will use Google Chrome, which is the most popular at the moment and a solid product. If you don't have it installed, you
-can download it from [https://www.google.com/chrome/](https://www.google.com/chrome/).
-
-<img src="./chrome.png" width="100" height="100" />
-
-## A good folder structure
-
-We will follow conventions to make it is easier for each of us to see and understand the different projects. We will
-create a folder called ReDI HTML&CSS Lessons and inside that folder we will make one new folder per project. Each
-project folder will have two extra folders; one for all the images, called img and one for the css files. At root level
-(that is, inside the project folder) we will have the different HTML files.
-
-<img src="./folders.png" width="200" height="149" />
-
-## Microsoft Teams
-
-There are many communication tools, but we officially chose Microsoft Teams. There we have a channel for the class where
-we can share materials, examples, links, updates about the classes etc. Everyone is on that channel so let's check if we have
-it installed and is working. If it's not on your computer, you can download it from [https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software](https://teams.microsoft.com).
-
-<img src="./teams.png" width="100" height="100" />
+- link to ... https://www.w3schools.com/html/
+- ...
+- ...
