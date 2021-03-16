@@ -1,0 +1,542 @@
+{"0": {
+    "doc": "Intro",
+    "title": "Website Analysis",
+    "content": "All websites are different because they serve different purposes. However, they share common structural elements, both on their visual aspect and their code. Most websites have their logos on the top left corner or the top center. The navigation is either on a top bar or on a left column (or right-to-left languages is similar but on the other side). This is called consistency and you can see it everywhere: a VW Golf and a Porsche are cars made for different purposes but they have a steering wheel on the left side, three pedals and a shift stick (OK, they can have two pedals if they’re automatic but they don’t have 5 pedals and a joystick). Here we can review different websites, the audience they serve and the common structure elements they share. We will see later that most of these elements are variations of a few HTML tags. ",
+    "url": "http://0.0.0.0:4000/lesson1/#website-analysis",
+    "relUrl": "/lesson1/#website-analysis"
+  },"1": {
+    "doc": "Intro",
+    "title": "What We Need",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson1/#what-we-need",
+    "relUrl": "/lesson1/#what-we-need"
+  },"2": {
+    "doc": "Intro",
+    "title": "Visual Studio Code",
+    "content": "Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET) You can learn more and also download it from https://code.visualstudio.com/. ",
+    "url": "http://0.0.0.0:4000/lesson1/#visual-studio-code",
+    "relUrl": "/lesson1/#visual-studio-code"
+  },"3": {
+    "doc": "Intro",
+    "title": "Browser",
+    "content": "There are many browsers in the market: Chrome, Firefox, Safari, Opera, Internet Explorer, Edge and a few other ones. We will use Google Chrome, which is the most popular at the moment and a solid product. If you don’t have it installed, you can download it from https://www.google.com/chrome/. ",
+    "url": "http://0.0.0.0:4000/lesson1/#browser",
+    "relUrl": "/lesson1/#browser"
+  },"4": {
+    "doc": "Intro",
+    "title": "A good folder structure",
+    "content": "We will follow conventions to make it is easier for each of us to see and understand the different projects. We will create a folder called ReDI HTML&amp;CSS Lessons and inside that folder we will make one new folder per project. Each project folder will have two extra folders; one for all the images, called img and one for the css files. At root level (that is, inside the project folder) we will have the different HTML files. ",
+    "url": "http://0.0.0.0:4000/lesson1/#a-good-folder-structure",
+    "relUrl": "/lesson1/#a-good-folder-structure"
+  },"5": {
+    "doc": "Intro",
+    "title": "Microsoft Teams",
+    "content": "There are many communication tools, but we officially chose Microsoft Teams. There we have a channel for the class where we can share materials, examples, links, updates about the classes etc. Everyone is on that channel so let’s check if we have it installed and is working. If it’s not on your computer, you can download it from https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software. ",
+    "url": "http://0.0.0.0:4000/lesson1/#microsoft-teams",
+    "relUrl": "/lesson1/#microsoft-teams"
+  },"6": {
+    "doc": "Intro",
+    "title": "Intro",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson1/",
+    "relUrl": "/lesson1/"
+  },"7": {
+    "doc": "CSS Selectors",
+    "title": "First, a review of last class",
+    "content": ". | In particular, the CSS at work section. | . ",
+    "url": "http://0.0.0.0:4000/lesson10/#first-a-review-of-last-class",
+    "relUrl": "/lesson10/#first-a-review-of-last-class"
+  },"8": {
+    "doc": "CSS Selectors",
+    "title": "CSS Selectors",
+    "content": "The three most used CSS Selectors are the Element, the ID and the Class. ",
+    "url": "http://0.0.0.0:4000/lesson10/",
+    "relUrl": "/lesson10/"
+  },"9": {
+    "doc": "CSS Selectors",
+    "title": "The element selector selects elements based on the element name",
+    "content": "h1 { color: #990000; border-bottom: #990000; } . ",
+    "url": "http://0.0.0.0:4000/lesson10/#the-element-selector-selects-elements-based-on-the-element-name",
+    "relUrl": "/lesson10/#the-element-selector-selects-elements-based-on-the-element-name"
+  },"10": {
+    "doc": "CSS Selectors",
+    "title": "The ID Selector uses the id attribute of an HTML element to select a specific element",
+    "content": ". | In HTML, you identify an element with an ID this way: &lt;h1 id=\"title\"&gt; | In CSS, you refer to that ID using the hashtag: #title | Important rule: there should be only one ID per page with the same name. There could be many IDs, but all of them should have different names | . &lt;h1 id=\"title\"&gt;Welcome to ReDI School&lt;/h1&gt; #title { color: #ffffff; border-bottom: #59ADC5; } . ",
+    "url": "http://0.0.0.0:4000/lesson10/#the-id-selector-uses-the-id-attribute-of-an-html-element-to-select-a-specific-element",
+    "relUrl": "/lesson10/#the-id-selector-uses-the-id-attribute-of-an-html-element-to-select-a-specific-element"
+  },"11": {
+    "doc": "CSS Selectors",
+    "title": "The class selector selects elements with a specific class attribute",
+    "content": ". | In HTML, you add a class to an element this way: &lt;ul class=\"nobullets\"&gt; | In CSS, you refer to that class using a dot: .nobullets | There is no limit to the number of classes per HTML file so you can have as many as you want but…if you find yourself adding too many on one page, there’s probably an easier way to do it :) | . &lt;ul class=\"nobullets\"&gt; .nobullets { list-style-type:none; } . ",
+    "url": "http://0.0.0.0:4000/lesson10/#the-class-selector-selects-elements-with-a-specific-class-attribute",
+    "relUrl": "/lesson10/#the-class-selector-selects-elements-with-a-specific-class-attribute"
+  },"12": {
+    "doc": "CSS Selectors",
+    "title": "Prefer classes over IDs where possible",
+    "content": "&lt;h1 class=\"bigger\"&gt;Welcome to ReDI School&lt;/h1&gt; . h1 { font-family: sans-serif; } .bigger { font-size:125%; color: #ffffff; border-bottom: #59ADC5; } . ",
+    "url": "http://0.0.0.0:4000/lesson10/#prefer-classes-over-ids-where-possible",
+    "relUrl": "/lesson10/#prefer-classes-over-ids-where-possible"
+  },"13": {
+    "doc": "CSS Selectors",
+    "title": "IDs and Classes best practices",
+    "content": ". | ID selectors win over class selectors. So try to always use a class first. | If you want to apply a style for all element type (e.g every ul on the page), you don’t need to apply a class to every UL, you can, you should use the element selector ul. | Take advantage of the tree structure of an HTML document: put styles on the parent in cases where those styles can be passed to the children. For example, apply the text styling to body, so you don’t have to add it to p, li or any other element. | . ",
+    "url": "http://0.0.0.0:4000/lesson10/#ids-and-classes-best-practices",
+    "relUrl": "/lesson10/#ids-and-classes-best-practices"
+  },"14": {
+    "doc": "CSS Selectors",
+    "title": "!important",
+    "content": "Explain !important. And also why it is discouraged. ",
+    "url": "http://0.0.0.0:4000/lesson10/#important",
+    "relUrl": "/lesson10/#important"
+  },"15": {
+    "doc": "CSS Selectors",
+    "title": "Relational selectors &amp; Combinators",
+    "content": ". | Descendant selector ul li { ... } . | Child selector ol &gt; li { ... } . | . ",
+    "url": "http://0.0.0.0:4000/lesson10/#relational-selectors--combinators",
+    "relUrl": "/lesson10/#relational-selectors--combinators"
+  },"16": {
+    "doc": "CSS Selectors",
+    "title": "Pseudo-classes",
+    "content": ":hover . ",
+    "url": "http://0.0.0.0:4000/lesson10/#pseudo-classes",
+    "relUrl": "/lesson10/#pseudo-classes"
+  },"17": {
+    "doc": "CSS Selectors",
+    "title": "Nested selectors",
+    "content": "Selectors can be nested to give you more precise control. &lt;div id=\"header\"&gt; &lt;a href=\"#home\"&gt;Home&lt;/a&gt; &lt;/div&gt; #header a { color: #0066CC; } . Learn more: . | W3Schools: CSS Syntax and Selectors | W3Schools: CSS Box Model | . ",
+    "url": "http://0.0.0.0:4000/lesson10/#nested-selectors",
+    "relUrl": "/lesson10/#nested-selectors"
+  },"18": {
+    "doc": "CSS Specificity",
+    "title": "CSS Specificity",
+    "content": "Specificity is a great tool to manage the power of CSS but can be complicated. As we will see, not all selectors are equal in “power”: . | If there are two or more rules that apply to an element, the most specific selector is used | If the two rules have equal specificity, then the latest rule is applied | . Let’s check this example. Which one is more important? . li { color:green; } li.special { color:red; } . What about now? . li#special { color:green; } li.special { color:red; } . How does it works . | Specificity determines, which CSS rule is applied by the browsers | Specificity is usually the reason why your CSS-rules don’t apply to some elements, although you think they should | Every selector has its place in the specificity hierarchy | If two selectors apply to the same element, the one with higher specificity wins. | There are four distinct categories which define the specificity level of a given selector: inline styles, IDs, classes, attributes, and elements | When selectors have an equal specificity value, the latest rule is the one that counts | When selectors have an unequal specificity value, the more specific rule is the one that counts | Rules with more specific selectors have a greater specificity | The last rule defined overrides any previous, conflicting rules | The embedded style sheet has a greater specificity than other rules | ID selectors have a higher specificity than attribute selectors | You should always try to use IDs to increase the specificity | A class selector beats any number of element selectors | The universal selector and inherited selectors have a specificity of 0, 0, 0, 0 | . Let’s take a look at how the numbers are actually calculated: . | If the element has inline styling, that automatically1 wins (1,0,0,0 points) | For each ID value, apply 0,1,0,0 points | For each class value (or pseudo-class or attribute selector), apply 0,0,1,0 points | For each element reference, apply 0,0,0,1 point | . You can generally read the values as if they were just a number, like 1,0,0,0 is “1000”, and so clearly wins over a specificity of 0,1,0,0 or “100”. The commas are there to remind us that this isn’t really a “base 10” system, in that you could technically have a specificity value of like 0,1,13,4 - and that “13” doesn’t spill over like a base 10 system would. Let’s see some very good examples . | CSS Specificity Wars | CSS Bento Box | . ",
+    "url": "http://0.0.0.0:4000/lesson11/",
+    "relUrl": "/lesson11/"
+  },"19": {
+    "doc": "CSS Specificity",
+    "title": "Pseudo-classes and pseudo-elements",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson11/#pseudo-classes-and-pseudo-elements",
+    "relUrl": "/lesson11/#pseudo-classes-and-pseudo-elements"
+  },"20": {
+    "doc": "CSS Specificity",
+    "title": "What are Pseudo-classes?",
+    "content": "A pseudo-class is used to define a special state of an element. For example, it can be used to: . | Style an element when a user mouses over it | Style visited and unvisited links differently | Style an element when it gets focus | . Syntax . selector:pseudo-class { property: value; } . A common example: Anchor Pseudo-classes . | Unvisited: a:link | Visited: a:visited | Mouse Over: a:hover | Selected: a:active | . A few CSS Pseudo Classes . | Selector | Example | Description | . | :active | a:active | Selects the active link | . | :checked | input:checked | Selects every checked &lt;input&gt; element | . | :enabled | input:enabled | Selects every enabled &lt;input&gt; element | . | :disabled | input:disabled | Selects every disabled &lt;input&gt; element | . | :focus | input:focus | Selects the &lt;input&gt; element that has focus | . | :hover | a:hover | Selects links on mouse over | . | :in-range | input:in-range | Selects &lt;input&gt; elements with a value within a specified range | . | :invalid | input:invalid | Selects all &lt;input&gt; elements with an invalid value | . | :first-child | p:first-child | Selects every &lt;p&gt; elements that is the first child of its parent | . | :last-child | p:last-child | Selects every &lt;p&gt; elements that is the last child of its parent | . ",
+    "url": "http://0.0.0.0:4000/lesson11/#what-are-pseudo-classes",
+    "relUrl": "/lesson11/#what-are-pseudo-classes"
+  },"21": {
+    "doc": "CSS Specificity",
+    "title": "What are Pseudo-Elements?",
+    "content": "A CSS pseudo-element is used to style specified parts of an element. For example, it can be used to: . | Style the first letter, or line, of an element | Insert content before, or after, the content of an element | . Notice the double colon notation - ::first-line versus :first-line . The double colon replaced the single-colon notation for pseudo-elements in CSS3. This was an attempt from W3C to distinguish between pseudo-classes and pseudo-elements. The single-colon syntax was used for both pseudo-classes and pseudo-elements in CSS2 and CSS1. The ::after Pseudo-element . The ::after pseudo-element can be used to insert some content after the content of an element. The ::before pseudo-element insert the content before the element. Obviously. ",
+    "url": "http://0.0.0.0:4000/lesson11/#what-are-pseudo-elements",
+    "relUrl": "/lesson11/#what-are-pseudo-elements"
+  },"22": {
+    "doc": "CSS Specificity",
+    "title": "Learn more",
+    "content": ". | W3Schools: Pseudo-classes | W3Schools: Pseudo-elements | CSS-Tricks: A Whole Bunch of Amazing Stuff Pseudo Elements Can Do | CSS-Tricks: Glyphs | W3Schools: CSS Specificity | CSS Tricks: Specifics on CSS Specificity | Smashing Magazine: CSS Specificity Things You Should Know | . ",
+    "url": "http://0.0.0.0:4000/lesson11/#learn-more",
+    "relUrl": "/lesson11/#learn-more"
+  },"23": {
+    "doc": "The Box Model",
+    "title": "The Box Model",
+    "content": "All HTML elements can be considered as boxes. In CSS, the term “box model” is used when talking about design and layout. The CSS box model is essentially a box that wraps around every HTML element. It consists of margins, borders, padding, and the actual content. | Content: The content of the box, where text and images appear | Padding: Clears an area around the content. The padding is transparent | Border: A border that goes around the padding and content | Margin: Clears an area outside the border. The margin is transparent | . Box elements styles . Well…every element is a box, but let’s focus on &lt;div&gt;, &lt;ul&gt;, &lt;ol&gt; and also the previous text elements. | width: 500px; (px, em, rem, %) | height: 250px; (px, em, rem) | border: 5px solid #CC0000; (px, em, rem; solid, dotted, dashed; hex, name, rgb, rgba) | padding: 10px 20px 10px 20px; (px, em, rem) | margin: 10px auto 30px auto; (px, em, rem) | . Here is an example . div { background-color: #eeeeaa; padding: 16px 24px; margin: 32px auto; border: 3px solid #00cc00; width: 50%; } p { text-align: center; font-size: 24px; font-weight: bold; font-style: italic; color: #990000; } . The Result: . Look at me, I know latin! Enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    "url": "http://0.0.0.0:4000/lesson12/",
+    "relUrl": "/lesson12/"
+  },"24": {
+    "doc": "The Box Model",
+    "title": "box-sizing",
+    "content": ". | width + padding + border = actual visible/rendered width of an element’s box | The default is a little counter-intuitive, hence we have box-sizing | . ",
+    "url": "http://0.0.0.0:4000/lesson12/#box-sizing",
+    "relUrl": "/lesson12/#box-sizing"
+  },"25": {
+    "doc": "The Box Model",
+    "title": "Learn more",
+    "content": ". | box-sizing | . ",
+    "url": "http://0.0.0.0:4000/lesson12/#learn-more",
+    "relUrl": "/lesson12/#learn-more"
+  },"26": {
+    "doc": "CSS Layout",
+    "title": "CSS Layout",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson13/",
+    "relUrl": "/lesson13/"
+  },"27": {
+    "doc": "CSS Layout",
+    "title": "Document Flow",
+    "content": "Document flow refers to the way the browser positions elements on the page. The browser starts at the top left of the page and starts placing elements one after another. Document flow is most affected by a property called display. There are two main display properties: block and inline. Display Block . Block elements expand to the full width of the available horizontal space. The next element will be placed underneath. A div is an example of a block level element. It expands to the full width of the available space. Display Inline . Inline level elements are only as wide as their content. Multiple inline elements stack up next to each other and can be nested inside block level elements. A span is an example of an inline level element. Block level elements are used for large pieces of content such as headings or text areas. Inline level elements are used to style small areas, such as adding italics to a few words. Display Inline-Block . Compared to display: inline, the major difference is that display: inline-block allows to set a width and height on the element. Also, with display: inline-block, the top and bottom margin and padding are respected, but with display: inline they are not. Compared to display: block, the major difference is that display: inline-block does not add a line-break after the element, so the element can sit next to other elements. Block level elements . | header, footer, nav, section, main, div, table, form | ul, ol, p | h1, h2, h3, h4, h5, h6 | . Inline level elements . | strong, em | span, img, a | button, input, label, select, textarea | . CSS property display . Using the CSS property display we can override the default display setting and change an element to be block or inline. This is useful because it’s not possible to set the width or height of inline level elements. We can also hide an element by setting display: none; . Layout Example . Learn more . | W3Schools: CSS Display Property | W3Schools: CSS Display Inline Block | . ",
+    "url": "http://0.0.0.0:4000/lesson13/#document-flow",
+    "relUrl": "/lesson13/#document-flow"
+  },"28": {
+    "doc": "Positioning & Stacking",
+    "title": "Positioning & Stacking",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson14/",
+    "relUrl": "/lesson14/"
+  },"29": {
+    "doc": "Responsive design",
+    "title": "Responsive design",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson15/",
+    "relUrl": "/lesson15/"
+  },"30": {
+    "doc": "Bootstrap",
+    "title": "Bootstrap",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson16/",
+    "relUrl": "/lesson16/"
+  },"31": {
+    "doc": "Typography",
+    "title": "Typography",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson17/",
+    "relUrl": "/lesson17/"
+  },"32": {
+    "doc": "Free",
+    "title": "Free",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson18/",
+    "relUrl": "/lesson18/"
+  },"33": {
+    "doc": "HTML Tables",
+    "title": "HTML Tables",
+    "content": "The table element represents data with more than one dimension, in the form of a table. Tables have rows, columns, and cells given by their descendants. The rows and columns form a grid; a table’s cells must completely cover that grid without overlap. An HTML table is defined with the &lt;table&gt; tag. Each table row is defined with the &lt;tr&gt; tag. A table header is defined with the &lt;th&gt; tag. By default, table headings are bold and centered. A table data/cell is defined with the &lt;td&gt; tag. Example . Bundesliga | Position | Team | Matches Played | Points | . | 1 | Dortmund | 6 | 16 | . | 2 | Hoffenheim | 6 | 14 | . | 3 | Bayern Muenchen | 6 | 13 | . | 4 | Hannover 96 | 6 | 12 | . &lt;table&gt; &lt;caption&gt; Bundesliga &lt;/caption&gt; &lt;tr&gt; &lt;th&gt;Position&lt;/th&gt; &lt;th&gt;Team&lt;/th&gt; &lt;th&gt;Matches Played&lt;/th&gt; &lt;th&gt;Points&lt;/th&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;1&lt;/td&gt; &lt;td&gt;Dortmund&lt;/td&gt; &lt;td&gt;6&lt;/td&gt; &lt;td&gt;16&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;2&lt;/td&gt; &lt;td&gt;Hoffenheim&lt;/td&gt; &lt;td&gt;6&lt;/td&gt; &lt;td&gt;14&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;3&lt;/td&gt; &lt;td&gt;Bayern Muenchen&lt;/td&gt; &lt;td&gt;6&lt;/td&gt; &lt;td&gt;13&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;td&gt;4&lt;/td&gt; &lt;td&gt;Hannover 96&lt;/td&gt; &lt;td&gt;6&lt;/td&gt; &lt;td&gt;12&lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; . The &lt;thead&gt; tag is used to group header content in an HTML table. It is used in conjunction with the &lt;tbody&gt; and &lt;tfoot&gt; elements to specify each part of a table (header, body, footer). Browsers can use these elements to enable scrolling of the table body independently of the header and footer. Also, when printing a large table that spans multiple pages, these elements can enable the table header and footer to be printed at the top and bottom of each page. Examples . Another examples of tables can be found in tennis scoreboards, stock markets, weather widgets, calendars etc. Tables offer interesting styling options. We can practice with this stock market table. ",
+    "url": "http://0.0.0.0:4000/lesson19/",
+    "relUrl": "/lesson19/"
+  },"34": {
+    "doc": "HTML Tables",
+    "title": "Learn more",
+    "content": ". | W3Schools: HTML Tables | CSS-Tricks: A Complete Guide to the Table Element | . ",
+    "url": "http://0.0.0.0:4000/lesson19/#learn-more",
+    "relUrl": "/lesson19/#learn-more"
+  },"35": {
+    "doc": "What is HTML?",
+    "title": "What is HTML?",
+    "content": "Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. | Hypertext Markup Language: HTML is a language for writing documents | Hypertext: Documents link to each other | Markup: Describes the semantic role of parts of a document | . ",
+    "url": "http://0.0.0.0:4000/lesson2/",
+    "relUrl": "/lesson2/"
+  },"36": {
+    "doc": "What is HTML?",
+    "title": "Semantic Markup",
+    "content": "Many HTML tags have semantic meaning. That is, the element itself conveys some information about the type of content contained between the opening and closing tags. With semantic markup the tags themselves become a way to tell a machine (whether a browser, a computer, a smartphone, or another smart device) something about the meaning of the content. ",
+    "url": "http://0.0.0.0:4000/lesson2/#semantic-markup",
+    "relUrl": "/lesson2/#semantic-markup"
+  },"37": {
+    "doc": "What is HTML?",
+    "title": "HTML structure",
+    "content": "Heading: it contains informations about the document such as title, scripts, styles, meta information, and more: . &lt;head&gt;&lt;/head&gt; . Body: it contains everything you see on the web: text, images, graphic and other elements. &lt;body&gt;&lt;/body&gt; . ",
+    "url": "http://0.0.0.0:4000/lesson2/#html-structure",
+    "relUrl": "/lesson2/#html-structure"
+  },"38": {
+    "doc": "What is HTML?",
+    "title": "HTML Tags",
+    "content": "HTML tags are element names surrounded by angle brackets: &lt;tagname&gt;content goes here...&lt;/tagname&gt; . | HTML tags normally come in pairs like &lt;p&gt; and &lt;/p&gt; . | The first tag in a pair is the start tag, the second tag is the end tag | The end tag is written like the start tag, but with a forward slash inserted before the tag name | Tip: The start tag is also called the opening tag, and the end tag the closing tag. | . ",
+    "url": "http://0.0.0.0:4000/lesson2/#html-tags",
+    "relUrl": "/lesson2/#html-tags"
+  },"39": {
+    "doc": "What is HTML?",
+    "title": "HTML Page Structure",
+    "content": "Below is a visualization of an HTML page structure: . &lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt; &lt;title&gt;Page title&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;h1&gt;This is a heading&lt;/h1&gt; &lt;p&gt;This is a paragraph.&lt;/p&gt; &lt;p&gt;This is another paragraph.&lt;/p&gt; &lt;/body&gt; &lt;/html&gt; . Note: Only the content inside the &lt;body&gt; section is displayed in a browser. ",
+    "url": "http://0.0.0.0:4000/lesson2/#html-page-structure",
+    "relUrl": "/lesson2/#html-page-structure"
+  },"40": {
+    "doc": "What is HTML?",
+    "title": "Exercise: let’s code our first HTML document",
+    "content": "Let’s all follow these steps: . | On the desktop of your computer, create a folder called ReDI HTML&amp;CSS Lessons | Inside that folder, create another folder called First Exercise | Open Atom | Create a new file (File &gt; New File or with Control + N) | Save the file as index.html inside the First Exercise folder | Write the code that we show above this list. | Open the file with Chrome to see how it looks. | Yes, it looks great. | . Learn more: . | W3Schools: HTML Introduction | W3Schools: HTML Editors | W3Schools: HTML Semantic | . ",
+    "url": "http://0.0.0.0:4000/lesson2/#exercise-lets-code-our-first-html-document",
+    "relUrl": "/lesson2/#exercise-lets-code-our-first-html-document"
+  },"41": {
+    "doc": "How can we bulld this?",
+    "title": "How can we bulld this?",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson20/",
+    "relUrl": "/lesson20/"
+  },"42": {
+    "doc": "How can we bulld this?",
+    "title": "Examples",
+    "content": "Let’s analyze the following images and discuss how could we build them with HTML and CSS. Another exercise . Let’s check the CSS syntax. ",
+    "url": "http://0.0.0.0:4000/lesson20/#examples",
+    "relUrl": "/lesson20/#examples"
+  },"43": {
+    "doc": "HTML Basics",
+    "title": "HTML Basics",
+    "content": "Doctype, headings, paragraphs, lists . ",
+    "url": "http://0.0.0.0:4000/lesson3/",
+    "relUrl": "/lesson3/"
+  },"44": {
+    "doc": "HTML Basics",
+    "title": "The &lt;!DOCTYPE&gt; Declaration",
+    "content": "The &lt;!DOCTYPE&gt; Declaration represents the document type, and helps browsers to display web pages correctly. It must only appear once, at the top of the page (before any HTML tags). | The &lt;!DOCTYPE&gt; declaration is not case sensitive. | The &lt;!DOCTYPE&gt; declaration for HTML5 is: &lt;!DOCTYPE html&gt; | . ",
+    "url": "http://0.0.0.0:4000/lesson3/#the-doctype-declaration",
+    "relUrl": "/lesson3/#the-doctype-declaration"
+  },"45": {
+    "doc": "HTML Basics",
+    "title": "HTML basics",
+    "content": ". | All HTML documents must start with a document type declaration: &lt;!DOCTYPE html&gt;. | The HTML document itself begins with &lt;html&gt; and ends with &lt;/html&gt;. | The visible part of the HTML document is between &lt;body&gt; and &lt;/body&gt;. | HTML headings are defined with the &lt;h1&gt; to &lt;h6&gt; tags. | &lt;h1&gt; defines the most important heading. | &lt;h6&gt; defines the least important heading. | HTML paragraphs are defined with the &lt;p&gt; tag: &lt;p&gt;This is a paragraph&lt;/p&gt;. | . ",
+    "url": "http://0.0.0.0:4000/lesson3/#html-basics-1",
+    "relUrl": "/lesson3/#html-basics-1"
+  },"46": {
+    "doc": "HTML Basics",
+    "title": "Examples",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson3/#examples",
+    "relUrl": "/lesson3/#examples"
+  },"47": {
+    "doc": "HTML Basics",
+    "title": "This is h1, the biggest HTML heading",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson3/",
+    "relUrl": "/lesson3/"
+  },"48": {
+    "doc": "HTML Basics",
+    "title": "This is h2, smaller than h1",
+    "content": "This is h3, as you've guessed . This is how the h4 looks like . This is h5, quite small . This is h6, the smallest one . This is a paragraph. Browsers do not display the HTML tags, but use them to render the content of the page. It's important to use the right HTML tags for each content element. Semantics are important: a well structured HTML document will be rendered correctly by all browsers and properly scanned and stored by the search engines. ",
+    "url": "http://0.0.0.0:4000/lesson3/",
+    "relUrl": "/lesson3/"
+  },"49": {
+    "doc": "HTML Basics",
+    "title": "Quick Exercise",
+    "content": "Take the HTML file that you code before (the one with h1 and p) and add h2, h3, h4, h5 and h6. IMPORTANT: Remember to always close the tags; if you open with &lt;h3&gt;, you close with &lt;/h3&gt;. ",
+    "url": "http://0.0.0.0:4000/lesson3/#quick-exercise",
+    "relUrl": "/lesson3/#quick-exercise"
+  },"50": {
+    "doc": "HTML Basics",
+    "title": "Unordered and ordered lists",
+    "content": "Lists are one of the most used HTML tags. There are two kind of lists: . ",
+    "url": "http://0.0.0.0:4000/lesson3/#unordered-and-ordered-lists",
+    "relUrl": "/lesson3/#unordered-and-ordered-lists"
+  },"51": {
+    "doc": "HTML Basics",
+    "title": "Unordered Lists",
+    "content": ". | This is the first item | This is the second item | This is the third item | This is the fourth item | . ",
+    "url": "http://0.0.0.0:4000/lesson3/#unordered-lists",
+    "relUrl": "/lesson3/#unordered-lists"
+  },"52": {
+    "doc": "HTML Basics",
+    "title": "Ordered Lists",
+    "content": ". | This is the first item | This is the second item | This is the third item | This is the fourth item | . ",
+    "url": "http://0.0.0.0:4000/lesson3/#ordered-lists",
+    "relUrl": "/lesson3/#ordered-lists"
+  },"53": {
+    "doc": "HTML Basics",
+    "title": "Another Quick Exercise",
+    "content": "Now add two lists to the HTML file: ol and ul. IMPORTANT: Remember that each item on a list should open with &lt;li&gt; and closed with &lt;/li&gt;. ",
+    "url": "http://0.0.0.0:4000/lesson3/#another-quick-exercise",
+    "relUrl": "/lesson3/#another-quick-exercise"
+  },"54": {
+    "doc": "HTML Basics",
+    "title": "Exercise on paper",
+    "content": "Let’s recognize headings, paragraphs and lists on our paper websites . | Using a colored marker, write on your website which elements you are using: | Mark the different headings as h1, h2, h3… | Mark all the paragraphs | Do you have lists? | Mark the navigation as a list | . Learn more: . | W3Schools: HTML Documents, Headings, Paragraphs and Lists | . ",
+    "url": "http://0.0.0.0:4000/lesson3/#exercise-on-paper",
+    "relUrl": "/lesson3/#exercise-on-paper"
+  },"55": {
+    "doc": "HTML Basics - An Exercise",
+    "title": "HTML Basics  - An Exercise",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson4/#html-basics----an-exercise",
+    "relUrl": "/lesson4/#html-basics----an-exercise"
+  },"56": {
+    "doc": "HTML Basics - An Exercise",
+    "title": "What we have learned so far",
+    "content": "All HTML tags (at least until now) have a semantic meaning: headings should be written with h1 (bigger) to h6 (smaller); sentences and paragraphs should be done with p and lists (including a navigation, which is a list of links) should be done with ul or ol, depending on the case. | Headings: h1 to h6 | Paragraphs with p | Lists with ol (ordered list) or ul (unordered list). Each item on the list is wrapped with li | . ",
+    "url": "http://0.0.0.0:4000/lesson4/#what-we-have-learned-so-far",
+    "relUrl": "/lesson4/#what-we-have-learned-so-far"
+  },"57": {
+    "doc": "HTML Basics - An Exercise",
+    "title": "Exercise",
+    "content": "Let’s do a quick page with the elements we know. The page should include: . | At least three headings: one h1 (there should be only one per page) and as many h2 to h6 as you need | At least one paragraph: p | At least two lists; one ol (ordered list) and one ul (unordered list) | . Here’s an example of a Museums page. ",
+    "url": "http://0.0.0.0:4000/lesson4/#exercise",
+    "relUrl": "/lesson4/#exercise"
+  },"58": {
+    "doc": "HTML Basics - An Exercise",
+    "title": "Ideas",
+    "content": ". | A quick recipe page: (name of the dish, description, ingredients, steps to prepare it) | A city/place/sport that you like | A short intro of who you are | Any other better idea than these ones! | . ",
+    "url": "http://0.0.0.0:4000/lesson4/#ideas",
+    "relUrl": "/lesson4/#ideas"
+  },"59": {
+    "doc": "HTML Basics - An Exercise",
+    "title": "Back to the paper prototypes",
+    "content": "Now that we practiced a bit with HTML, let’s recognize and mark on our paper websites the HTML elements that we just used. Like this: . ",
+    "url": "http://0.0.0.0:4000/lesson4/#back-to-the-paper-prototypes",
+    "relUrl": "/lesson4/#back-to-the-paper-prototypes"
+  },"60": {
+    "doc": "HTML Basics - An Exercise",
+    "title": "Introducing more semantic tags",
+    "content": ". | &lt;nav&gt; | &lt;header&gt; | &lt;article&gt; | &lt;section&gt; | &lt;footer&gt; | . Here’s an example of using these tags in our sample Recipe page . ",
+    "url": "http://0.0.0.0:4000/lesson4/#introducing-more-semantic-tags",
+    "relUrl": "/lesson4/#introducing-more-semantic-tags"
+  },"61": {
+    "doc": "HTML Basics - An Exercise",
+    "title": "HTML Basics - An Exercise",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson4/",
+    "relUrl": "/lesson4/"
+  },"62": {
+    "doc": "More HTML Basics",
+    "title": "More HTML Basics",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson5/",
+    "relUrl": "/lesson5/"
+  },"63": {
+    "doc": "More HTML Basics",
+    "title": "HTML Comments",
+    "content": "When we code is very useful (and important) to write notes for ourselves or for colleagues who might use the code later. A description of what a certain part of the website is for, a reference, a code hidden for the future etc; all of this can be done with HTML Comments. The comments start with &lt;!-- and end with --&gt;. Anything on an HTML document between these two tags won’t appear on the browser. &lt;!-- Main navigation --&gt; &lt;nav&gt; &lt;ul&gt; &lt;li&gt;About&lt;/li&gt;&lt;!-- Harrold, please add the links later --&gt; &lt;li&gt;Work&lt;/li&gt; &lt;li&gt;Contact&lt;/li&gt; &lt;!-- &lt;li&gt;Facebook&lt;/li&gt; let's hide this for now --&gt; &lt;/ul&gt; &lt;/nav&gt; . This will be the result: . | About | Work | Contact | . ",
+    "url": "http://0.0.0.0:4000/lesson5/#html-comments",
+    "relUrl": "/lesson5/#html-comments"
+  },"64": {
+    "doc": "More HTML Basics",
+    "title": "HTML Links // Click me!",
+    "content": ". ",
+    "url": "http://0.0.0.0:4000/lesson5/#html-links--click-me",
+    "relUrl": "/lesson5/#html-links--click-me"
+  },"65": {
+    "doc": "More HTML Basics",
+    "title": "Links // Hypertext (the “h” in http)",
+    "content": "Hypertext documents at the beginning of the 90s (just before the WWW) . | Jumping around in the document through clicks (cf. novel reading) | e.g. a pdf document: The user manual of a photo-camera | . ",
+    "url": "http://0.0.0.0:4000/lesson5/#links--hypertext-the-h-in-http",
+    "relUrl": "/lesson5/#links--hypertext-the-h-in-http"
+  },"66": {
+    "doc": "More HTML Basics",
+    "title": "Links // ***THE*** Brilliant Idea",
+    "content": "Links between documents that can be anywhere in the world . ",
+    "url": "http://0.0.0.0:4000/lesson5/#links--the-brilliant-idea",
+    "relUrl": "/lesson5/#links--the-brilliant-idea"
+  },"67": {
+    "doc": "More HTML Basics",
+    "title": "Links // Internet Surfing",
+    "content": ". ",
+    "url": "http://0.0.0.0:4000/lesson5/#links--internet-surfing",
+    "relUrl": "/lesson5/#links--internet-surfing"
+  },"68": {
+    "doc": "More HTML Basics",
+    "title": "Links // How To",
+    "content": "Hyperlinks . The power of the web is that pages can lead to other pages. When you click on a link on a web page, it takes you to another page. This link is called a hyperlink. Hyperlinks are created with anchor elements, which generally look like: . &lt;a href=\"https://www.google.com/\"&gt;Google&lt;/a&gt; . and render on the page like this: Google. Inside the opening a tag there is href, which stands for “reference.” This is called an attribute. Attributes like href describe the properties of HTML elements. In this case, the href attribute is the target URL that the link will open. The content inside the anchor element is the text that users see displayed on the page. This is the format that you must use when you make hyperlinks! Note: . | There is a space between a and href | There are no spaces around the = | The website has two \" around it | There are no spaces between the href attribute and the &gt; of the opening tag. | . ",
+    "url": "http://0.0.0.0:4000/lesson5/#links--how-to",
+    "relUrl": "/lesson5/#links--how-to"
+  },"69": {
+    "doc": "More HTML Basics",
+    "title": "Links // Two small exercises",
+    "content": "Type in a link that points to https://www.redi-school.org/ and displays as “Redi-School”. Make an Internet shopping guide (just a list), with 5 items like: “If you need shoes, buy them at Zalando. For books, go to …. etc”. BTW: The attribute target=\"_blank\" will open a link in a new tab! . &lt;a href=\"https://www.google.de\" target=\"_blank\"&gt;Google&lt;/a&gt; . ",
+    "url": "http://0.0.0.0:4000/lesson5/#links--two-small-exercises",
+    "relUrl": "/lesson5/#links--two-small-exercises"
+  },"70": {
+    "doc": "More HTML Basics",
+    "title": "Links // Image As A Link - Exercise",
+    "content": "So far we have made text links. How can we make an image into a link? . Remember, what was inside the anchor tag &lt;a&gt; when making a text link? . ",
+    "url": "http://0.0.0.0:4000/lesson5/#links--image-as-a-link---exercise",
+    "relUrl": "/lesson5/#links--image-as-a-link---exercise"
+  },"71": {
+    "doc": "More HTML Basics",
+    "title": "Links // Image as Link - Solution",
+    "content": "This is a text link . &lt;a href=\"https://www.google.com\"&gt;This is a text link&lt;/a&gt; . This is an image as a link: . &lt;a href=\"https://www.google.com\"&gt;&lt;img src=\"./grafzahl2.jpg\"&gt;&lt;/a&gt; . Learn more: . | W3Schools: HTML Images | W3Schools: HTML Links | W3Schools: HTML Attributes | . ",
+    "url": "http://0.0.0.0:4000/lesson5/#links--image-as-link---solution",
+    "relUrl": "/lesson5/#links--image-as-link---solution"
+  },"72": {
+    "doc": "HTML Basics - More Exercises",
+    "title": "HTML Basics - More Exercises",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson6/",
+    "relUrl": "/lesson6/"
+  },"73": {
+    "doc": "HTML Basics - More Exercises",
+    "title": "What we have learned so far",
+    "content": "In these first weeks we’ve learned the basic HTML tags and did a couple of exercises. Let’s review them again before going back to our websites. This is what we’ve learned: . | Headings: use h1 to h6 | Paragraphs: use p | Unordered lists: write them with ul. Each item on the list is wrapped with li | Ordered lists: write them with ol. Each item on the list is wrapped with li | Links: you open the link with a href=\"\" and close it with /a. Inside the quotes you write where the link will point to | Image links: Instead of wrapping text with &lt;a href=\"\"&gt; and &lt;/a&gt;, you wrap an image. | HTML comments: Anything you place between &lt;!-- and --&gt; will be hidden for the browsers. | . ",
+    "url": "http://0.0.0.0:4000/lesson6/#what-we-have-learned-so-far",
+    "relUrl": "/lesson6/#what-we-have-learned-so-far"
+  },"74": {
+    "doc": "HTML Basics - More Exercises",
+    "title": "New Tags",
+    "content": ". | &lt;span&gt; (documentation) | &lt;button&gt; (documentation) | &lt;input&gt; (documentation). Explain a few different types of input, like text, email, password, checkbox, radio. | . ",
+    "url": "http://0.0.0.0:4000/lesson6/#new-tags",
+    "relUrl": "/lesson6/#new-tags"
+  },"75": {
+    "doc": "HTML Basics - More Exercises",
+    "title": "Exercises",
+    "content": "Which code snippet is right? . Please compare carefully the four options and choose the correct one. Find the errors . You can see the examples below or check the errors on a pdf. EXAMPLE ONE &lt;h1&gt;Welcome to ReDI school!&lt;/h2&gt; &lt;p&gt;We are learning how to do a page with&lt;/p&gt; &lt;ul&gt; &lt;li&gt;headings&lt;/li&gt; &lt;li&gt;paragraphs&lt;/li&gt;&lt;!-- &lt;li&gt;unordered lists&lt;/li&gt; &lt;li&gt;ordered lists &lt;/li&gt; &lt;li&gt;images&lt;/li&gt; &lt;li&gt;links&lt;/li&gt; &lt;li&gt;comments&lt;/li&gt; &lt;/ul&gt; EXAMPLE TWO &lt;h2&gt;Welcome to ReDI school!&lt;/h2&gt; &lt;p&gt;We are learning how to do a page with&lt;/p&gt; &lt;h3&gt; &lt;li&gt;headings&lt;/li&gt; &lt;li&gt;paragraphs&lt;/li&gt; &lt;li&gt;unordered lists&lt;/li&gt; &lt;li&gt;ordered lists&lt;/li&gt; &lt;li&gt;images&lt;/li&gt; &lt;ul&gt;links&lt;/li&gt; &lt;li&gt;comments&lt;/ul&gt; &lt;/h3&gt; EXAMPLE THREE &lt;h1&gt;Welcome to ReDI school!&lt;/h1&gt; &lt;ul&gt; &lt;p&gt;We are learning how to do a page with&lt;/p&gt; &lt;li&gt;headings&lt;/li&gt; &lt;li&gt;paragraphs&lt;/li&gt; &lt;li&gt;unordered lists&lt;/li&gt; &lt;li&gt;ordered lists&lt;/li&gt; &lt;li&gt;images&lt;/li&gt; &lt;li&gt;links&lt;/li&gt; &lt;li&gt;comments&lt;/li&gt; &lt;/ul&gt; . This is the HTML; what will the browser show? . &lt;!-- Welcome --&gt; &lt;h1&gt;Welcome to ReDI school!&lt;/h1&gt; &lt;p&gt;We are learning how to do a page with&lt;/p&gt; &lt;ul&gt; &lt;li&gt;headings&lt;/li&gt;&lt;!-- h1 to h6 --&gt; &lt;li&gt;paragraphs&lt;/li&gt;&lt;!-- --&gt;&lt;li&gt;unordered lists&lt;/li&gt; &lt;li&gt;ordered lists&lt;/li&gt; &lt;li&gt;images&lt;/li&gt; &lt;li&gt;links&lt;/li&gt;&lt;!-- &lt;li&gt;comments&lt;/li&gt;--&gt; &lt;/ul&gt; . ",
+    "url": "http://0.0.0.0:4000/lesson6/#exercises",
+    "relUrl": "/lesson6/#exercises"
+  },"76": {
+    "doc": "Forms",
+    "title": "Review",
+    "content": ". | &lt;span&gt; | &lt;button&gt; | &lt;input&gt; | . ",
+    "url": "http://0.0.0.0:4000/lesson7/#review",
+    "relUrl": "/lesson7/#review"
+  },"77": {
+    "doc": "Forms",
+    "title": "New Tags",
+    "content": ". | &lt;textarea&gt; (documentation) | &lt;select&gt; &amp; &lt;option&gt; (documentation) | &lt;form&gt; (documentation). | . ",
+    "url": "http://0.0.0.0:4000/lesson7/#new-tags",
+    "relUrl": "/lesson7/#new-tags"
+  },"78": {
+    "doc": "Forms",
+    "title": "Bringing it Together: Build a Form",
+    "content": "&lt;form id=\"contact\" action=\"\" method=\"post\"&gt; &lt;h3&gt;Quick Contact&lt;/h3&gt; &lt;h4&gt;Contact us today, and get reply with in 24 hours!&lt;/h4&gt; &lt;fieldset&gt; &lt;input placeholder=\"Your name\" type=\"text\" tabindex=\"1\" required autofocus /&gt; &lt;/fieldset&gt; &lt;fieldset&gt; &lt;input placeholder=\"Your Email Address\" type=\"email\" tabindex=\"2\" required /&gt; &lt;/fieldset&gt; &lt;fieldset&gt; &lt;input placeholder=\"Your Phone Number\" type=\"tel\" tabindex=\"3\" required /&gt; &lt;/fieldset&gt; &lt;fieldset&gt; &lt;input placeholder=\"Your Web Site starts with http://\" type=\"url\" tabindex=\"4\" required /&gt; &lt;/fieldset&gt; &lt;fieldset&gt; &lt;textarea placeholder=\"Type your Message Here....\" tabindex=\"5\" required &gt;&lt;/textarea&gt; &lt;/fieldset&gt; &lt;fieldset&gt; &lt;p&gt;Select a maintenance drone:&lt;/p&gt; &lt;div&gt; &lt;input type=\"radio\" id=\"huey\" name=\"drone\" value=\"huey\" checked /&gt; &lt;label for=\"huey\"&gt;Huey&lt;/label&gt; &lt;/div&gt; &lt;div&gt; &lt;input type=\"radio\" id=\"dewey\" name=\"drone\" value=\"dewey\" /&gt; &lt;label for=\"dewey\"&gt;Dewey&lt;/label&gt; &lt;/div&gt; &lt;/fieldset&gt; &lt;fieldset&gt; &lt;button name=\"submit\" type=\"submit\" id=\"contact-submit\" data-submit=\"...Sending\" &gt; Submit &lt;/button&gt; &lt;/fieldset&gt; &lt;/form&gt; . ",
+    "url": "http://0.0.0.0:4000/lesson7/#bringing-it-together-build-a-form",
+    "relUrl": "/lesson7/#bringing-it-together-build-a-form"
+  },"79": {
+    "doc": "Forms",
+    "title": "Forms",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson7/",
+    "relUrl": "/lesson7/"
+  },"80": {
+    "doc": "Review",
+    "title": "Review",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson8/",
+    "relUrl": "/lesson8/"
+  },"81": {
+    "doc": "Review",
+    "title": "Create a Portfolio website HTML using all that we’ve learnt.",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson8/#create-a-portfolio-website-html-using-all-that-weve-learnt",
+    "relUrl": "/lesson8/#create-a-portfolio-website-html-using-all-that-weve-learnt"
+  },"82": {
+    "doc": "Intro to CSS",
+    "title": "Intro to CSS",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/lesson9/",
+    "relUrl": "/lesson9/"
+  },"83": {
+    "doc": "Intro to CSS",
+    "title": "What is CSS?",
+    "content": "CSS stands for Cascading Style Sheet. It describes how HTML elements are to be displayed on different screens and in print. It works on top of the HTML and makes use of the tree-structure of the HTML documents. The HTML elements inherit stylistic properties through CSS. Helps us add colors, sizes, order, position, hiding, showing, animatin etc. How do we write CSS? . Here is a very basic CSS style: . h1 { color: red; } . Explaining the structure . Explaining the structure of CSS styles: . selector { property: value; } . | The selector points to the HTML element you want to style | The declaration block (within the curly braces) contains one or more declarations separated by semicolons. | Each declaration includes a CSS property name and a value, separated by a colon. Find full list of CSS Properties here. | red - this is one way of defining color in CSS. This is called a named color. Here is a full list of named colors that CSS understands. CSS also understands hex values like #ff0000, and rgb(255, 0, 0); | A CSS declaration always ends with a semicolon. | So in sumarry, it reads like: If this condition is true, then apply this/these style(s). | . Another example . h1 { /* * Note px is a unit of measurement in CSS. * Other units will be covered later */ font-size: 60px; } . Where to put your styles . | Inline | Style tag | CSS File | . Show how they override one another with the h1 color style above. Inline has the highest preference. Parent, Children, Sibling, Ancestor, Descendant . | An element that directly contains other elements is a parent of the elements that it contains. | An element that is directly contained within another element is a child of the element that contains it. | Elements are sibling elements if they share the same parent element. | An element that contains (at any level) other elements is an ancestor of the elements that it contains. | An element that is contained (at any level) within another element is a descendant of the element that contains it. | . More details here . Example . &lt;div&gt; &lt;h1&gt;Museums in Berlin&lt;/h1&gt; &lt;div&gt; &lt;p&gt;I am a paragraph!&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; . div { color: blue } . The p will be colored blue. ",
+    "url": "http://0.0.0.0:4000/lesson9/#what-is-css",
+    "relUrl": "/lesson9/#what-is-css"
+  },"84": {
+    "doc": "Intro to CSS",
+    "title": "CSS at work",
+    "content": "Here is the Museum’s page example. Let’s do some really basic styling. Teacher’s Note: Apply styles on live editor. | color: #FF9900;. This is an hex value. Another way to set color is rgb. | text-align: center; (can be center, right, justify) | font-family: Helvetica (Explain a bit about web-safe fonts). Also explain listing backup fonts example below | font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; | font-size: 16px; (px, em, rem, %) | font-weight: bold; (normal, bold) | font-style: italic; (normal, italic) | font - This is a CSS Shorthand property. | border-width: 3px; | border-style: solid; | border-color: pink; | border: 3px solid pink; This is a CSS Shorthand property. | background-color: #660000; | background-image: url() | . ",
+    "url": "http://0.0.0.0:4000/lesson9/#css-at-work",
+    "relUrl": "/lesson9/#css-at-work"
+  },"85": {
+    "doc": "Intro to CSS",
+    "title": "Comments",
+    "content": "h1 { /* this is a comment */ color: #0066CC; } . ",
+    "url": "http://0.0.0.0:4000/lesson9/#comments",
+    "relUrl": "/lesson9/#comments"
+  },"86": {
+    "doc": "Intro to CSS",
+    "title": "Some sources for colors",
+    "content": ". | Coolors.co | Color-hex.com | Colorsupplyyy.com | . Learn more: . | W3Schools: CSS Syntax and Selectors | W3Schools: CSS Colors | . ",
+    "url": "http://0.0.0.0:4000/lesson9/#some-sources-for-colors",
+    "relUrl": "/lesson9/#some-sources-for-colors"
+  },"87": {
+    "doc": "Home",
+    "title": "HTML&amp;CSS",
+    "content": "Welcome to the homepage of the HTML &amp; CSS course of NRW at ReDI School. On this site we collect all the materials like slides, exercises with solutions, ideas for projects as well as additional resources that you may/should look into. In this course we will learn how websites are made and teach you how to build your own. ",
+    "url": "http://0.0.0.0:4000/#htmlcss",
+    "relUrl": "/#htmlcss"
+  },"88": {
+    "doc": "Home",
+    "title": "Teachers",
+    "content": ". | Vincent | Seun | Jessica | Heni | Baris | . ",
+    "url": "http://0.0.0.0:4000/#teachers",
+    "relUrl": "/#teachers"
+  },"89": {
+    "doc": "Home",
+    "title": "Home",
+    "content": ". ",
+    "url": "http://0.0.0.0:4000/",
+    "relUrl": "/"
+  }
+}
