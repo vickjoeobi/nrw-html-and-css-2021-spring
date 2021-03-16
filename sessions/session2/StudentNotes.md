@@ -35,7 +35,7 @@ ETA: ~30min
 This sections introduces CSS and it's purpose is also to give a solid foundational understanding of the following questions around CSS:
 
 - What is CSS?
-- Who and when created CSS?
+- Who created CSS, and when was CSS created?
 - Who maintains CSS?
 - What are the different use cases for CSS?
 - What is the latest CSS version?
