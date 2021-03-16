@@ -14,12 +14,11 @@
 This section covers the introduction to HTML and should give understanding of basic questions such as:
 
 - What is HTML?
+- What does HTML stand for?
+- Why do we need HTML?
 - Who and when created HTML?
 - Who maintains HTML?
-- Why do we need HTML?
-- What are the characteristics of HTML?
 - What is the latest HTML version?
-- What does HTML stand for?
 - What is the difference between a Programming Language and a Markup Language?
 - What is the meaning of the word Hyper Text in the context of HTML
 - How do HTML rules and language look like?
@@ -37,7 +36,7 @@ This sections introduces CSS and it's purpose is also to give a solid foundation
 - What is CSS?
 - Who created CSS, and when was CSS created?
 - Who maintains CSS?
-- What are the different use cases for CSS?
+- What are the different use cases for CSS? See explanation below.
 - What is the latest CSS version?
 - What does Style Sheet in CSS stand for?
 - What does Cascading in CSS stand for?
