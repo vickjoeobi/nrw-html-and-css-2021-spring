@@ -16,4 +16,11 @@ In this course we will learn how websites are made and teach you how to build yo
 
 ## Teachers
 
-*
+* Angel
+* Babatunde
+* Christopher
+* Chukwuma
+* Jessica
+* Olaniyi Bayonle
+* Seun
+* Vincent
