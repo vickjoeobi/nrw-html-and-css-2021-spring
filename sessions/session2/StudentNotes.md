@@ -36,7 +36,7 @@ This sections introduces CSS and it's purpose is also to give a solid foundation
 - What is CSS?
 - Who created CSS, and when was CSS created?
 - Who maintains CSS?
-- What are the different use cases for CSS? See explanation below.
+- What is CSS used for? See example explanation below.
 - What is the latest CSS version?
 - What does Style Sheet in CSS stand for?
 - What does Cascading in CSS stand for?
