@@ -1,5 +1,5 @@
 ---
-title: Lesson 1
+title: Lesson 1 - Welcome
 nav_order: 1
 ---
 

@@ -3,7 +3,7 @@ title: Lesson 2 - Introduction
 nav_order: 2
 ---
 
-# Session 2 - Introduction to HTML and CSS
+# Introduction to HTML and CSS
 
 ## _Class Agenda_
 
