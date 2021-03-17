@@ -1,4 +1,9 @@
-# Session 2 - Introduction to HTML and CSS
+---
+title: Lesson 2 - Introduction
+nav_order: 2
+---
+
+# Introduction to HTML and CSS
 
 ## _Class Agenda_
 
