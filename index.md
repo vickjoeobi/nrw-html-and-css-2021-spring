@@ -19,7 +19,6 @@ In this course we will learn how websites are made and teach you how to build yo
 * Angel
 * Babatunde
 * Christopher
-* Christopher
 * Chukwuma
 * Chuma
 * Jessica
