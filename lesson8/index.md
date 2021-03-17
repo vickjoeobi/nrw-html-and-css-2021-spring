@@ -1,6 +1,6 @@
 ---
-title: Lesson 8  
-nav_order: 8 
+title: Lesson 8
+nav_order: 8
 ---
 
 (This is a recommended student notes structure. Please follow it and feel free to extend if you feel that you need to. But also make sure to at least contain the following sections.)
@@ -32,7 +32,7 @@ HTML tags are...
 - Download VS Code
 - Make a short Hello World example
 
-# Terms
+# Glossary & Terminology
 
 (please give related terms and vocabulary that you taught during the class)
 

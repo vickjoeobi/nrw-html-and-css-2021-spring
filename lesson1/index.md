@@ -32,7 +32,7 @@ HTML tags are...
 - Download VS Code
 - Make a short Hello World example
 
-# Terms
+# Glossary & Terminology
 
 (please give related terms and vocabulary that you taught during the class)
 
