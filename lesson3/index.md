@@ -39,6 +39,10 @@ HTML is composed of elements. e.g a paragraph element looks likek:
 # Exercise Description
 
 - Open a webpage and look in the dev tools, and identify tags discussed above.
+- Students should configure their dev environment with the following:
+  - VS Code
+  - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - Browser (Google Chrome)
 - Pracitise creating a basic HTML page in the class
 - The page should use the tags explained above
 
