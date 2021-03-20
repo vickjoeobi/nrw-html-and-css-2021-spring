@@ -77,7 +77,7 @@ This section describes the Project that students are going to build throughout t
 
 - Everyone will work on their own website which would be their CV
 - Everyone will start simple and gradually add new content to this CV website
-- An example page to roughly look at is presented - e.g. https://www.sesanosanyinbi.com/
+- An example page to roughly look at is presented - e.g. <https://www.sesanosanyinbi.com/>
 - Students should not blindly follow the given example but instead be creative and use whatever styling and arrangement they want
 - There will be couple of CV dedicated sessions or homeworks where we would be able to look at each student's code and help a little bit
 - The use cases for this website are following -> Using it for future employers, Sharing with family and friends, having fun
@@ -114,16 +114,16 @@ ETA: ~10min
 
 1. For next session please create a table in which you compare HTML and CSS. The table should contain the similarities and differences between HTML and CSS. It could be in written form or in digital form.
 2. Make yourself familiar with the [MDN Web Docs website](https://developer.mozilla.org/en-US/) and with the [W3Schools website](https://www.w3schools.com/) as they are good source of documentation
-3. (Optional) Read the story behind creating CSS at https://www.w3.org/Style/CSS20/history.html
+3. (Optional) Read the story behind creating CSS at <https://www.w3.org/Style/CSS20/history.html>
 
 # Resources
 
 The following articles are good starting point for reading about HTML and CSS. Please keep in mind that some of the articles might go too much into details and cover topics that you would learn in upcoming sessions:
 
-- <https://www.w3schools.com/html/>
-- https://www.geeksforgeeks.org/html-introduction/
-- https://developer.mozilla.org/en-US/docs/Web/HTML
-- https://en.wikipedia.org/wiki/Static_web_page
-- https://www.w3schools.com/css/css_intro.asp
-- https://developer.mozilla.org/en-US/docs/Web/CSS
-- Brief History of CSS - https://www.w3.org/Style/CSS20/history.html
+- <https://www.w3schools.com/html>
+- <https://www.geeksforgeeks.org/html-introduction>
+- <https://developer.mozilla.org/en-US/docs/Web/HTML>
+- <https://en.wikipedia.org/wiki/Static_web_page/>
+- <https://www.w3schools.com/css/css_intro.asp>
+- <https://developer.mozilla.org/en-US/docs/Web/CSS>
+- [Brief History of CSS](https://www.w3.org/Style/CSS20/history.html)
