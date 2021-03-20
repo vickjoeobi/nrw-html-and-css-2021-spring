@@ -47,7 +47,10 @@ HTML is composed of elements. e.g a paragraph element looks like:
   - VS Code
   - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - Browser (Google Chrome)
-- Pracitise creating a basic HTML page in the class
+- Practise creating a basic HTML page in the class
+  - Write a basic HTML page just like `lesson2/Exercise.html`. Add the following tags also:
+    - Add a Doctype tag to the page
+    - Add a meta tag
 - The page should use the tags explained above
 
 # Glossary & Terminology
