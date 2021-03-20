@@ -1,9 +1,9 @@
 ---
-title: Lesson 3 - HTML Tags, Part 1
+title: Lesson 3 - HTML Structure
 nav_order: 3
 ---
 
-# HTML Tags, Part 1
+# HTML Structure
 
 ## Class Agenda
 
