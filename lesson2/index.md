@@ -120,7 +120,7 @@ ETA: ~10min
 
 The following articles are good starting point for reading about HTML and CSS. Please keep in mind that some of the articles might go too much into details and cover topics that you would learn in upcoming sessions:
 
-- https://www.w3schools.com/html/
+- <https://www.w3schools.com/html/>
 - https://www.geeksforgeeks.org/html-introduction/
 - https://developer.mozilla.org/en-US/docs/Web/HTML
 - https://en.wikipedia.org/wiki/Static_web_page
