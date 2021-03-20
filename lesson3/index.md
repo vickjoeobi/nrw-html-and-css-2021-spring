@@ -24,6 +24,7 @@ HTML is composed of elements. e.g a paragraph element looks likek:
 - What is the content?
 - What is the closing tag?
 - Do all elements contain a closing tag?
+- What is an Attribute?
 
 ## 3. HTML Page Structure
 - What is DOCTYPE tag?
@@ -33,8 +34,6 @@ HTML is composed of elements. e.g a paragraph element looks likek:
 - What goes in the body tag?
 - Explain <title>
 - Explain common meta tag usage like <meta name="description">, <meta charset="">.
-- Explain <link> for CSS
-- Explain <link> for favicons
 
 
 # Exercise Description
