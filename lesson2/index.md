@@ -32,7 +32,7 @@ Moreover, this section mentions basic HTML characteristics. HTML is an `easy-to-
 
 A good linker between sections 1. and 2. is the question `What cannot be done by HTML`?
 
-ETA: ~30min
+ETA: ~40min
 
 ## 2. Introduction to CSS
 
@@ -57,7 +57,7 @@ Special attention is given to the CSS characteristics.
 
 Also this section shortly mentions the topic of Browser compatibility, describing that one piece of CSS might not work on all browser and devices. A useful example is the MDN browser compatibility table.
 
-ETA: ~40min
+ETA: ~45min
 
 ## 3. Comparison between HTML / CSS
 
@@ -69,7 +69,7 @@ This section is a natural follower to section 1 and 2. This sections does not co
 
 This section teaches students the difference between static and dynamic web pages without going into too many details such as server rendering, database usage, etc. The idea behind is that students understand the difference between a static HTML website which always remains the same and a website which changes during execution time or is different from user to user (e.g. Facebook). The goal of the section is to set the right expectation to students about what they are going to learn about and about the Project CV website that their going to build.
 
-ETA: ~10min
+ETA: ~1-2min
 
 ## 5. Project CV Website (Pitch)
 
@@ -83,11 +83,11 @@ This section describes the Project that students are going to build throughout t
 - The use cases for this website are following -> Using it for future employers, Sharing with family and friends, having fun
 - QA with Students regarding the project
 
-ETA: ~10-15min
+ETA: ~15min
 
 # Exercise Description
 
-ETA: ~10-15min
+ETA: ~10min
 
 - Make a short Hello World example in VS Code. The example could contain for example, `Max Muster's CV` in the title of page when loaded in the browser.
 
