@@ -16,7 +16,9 @@ nav_order: 3
 "At its heart, HTML is a fairly simple language made up of elements, which can be applied to pieces of text to give them different meaning in a document". [[1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)]
 
 HTML is composed of elements. e.g a paragraph element looks likek:
+```
 <p>Hello world!</p>
+```
 
 ## 2. Anatomy of an HTML element
 
