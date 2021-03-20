@@ -35,7 +35,7 @@ HTML is composed of elements. e.g a paragraph element looks likek:
 - What is the body?
 - What goes in the body tag?
 - Explain <title>
-- Explain common meta tag usage like <meta name="description">, <meta charset="">.
+- Explain common meta tag usage like `<meta name="description">`, `<meta charset="">`.
 
 
 # Exercise Description
