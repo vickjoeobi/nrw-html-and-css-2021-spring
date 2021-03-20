@@ -15,26 +15,28 @@ nav_order: 3
 
 "At its heart, HTML is a fairly simple language made up of elements, which can be applied to pieces of text to give them different meaning in a document". [[1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)]
 
-HTML is composed of elements. e.g a paragraph element looks likek:
+HTML is composed of elements. e.g a paragraph element looks like:
 ```
 <p>Hello world!</p>
 ```
 
 ## 2. Anatomy of an HTML element
 
+- What is an HTML tag?
 - What is the opening tag?
 - What is the content?
 - What is the closing tag?
 - Do all elements contain a closing tag?
 - What is an Attribute?
+- What is a Semantic Tag?
 
 ## 3. HTML Page Structure
 - What is DOCTYPE tag?
-- What is the html tag?
-- What goes in the head tag?
-- What is the body?
-- What goes in the body tag?
-- Explain <title>
+- What is the `<html>` tag?
+- What goes in the `<head>` tag?
+- What is the `<body>`?
+- What goes in the `<body>` tag?
+- Explain `<title>` tag
 - Explain common meta tag usage like `<meta name="description">`, `<meta charset="">`.
 
 
