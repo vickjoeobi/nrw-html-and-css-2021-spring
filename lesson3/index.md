@@ -36,8 +36,8 @@ HTML is composed of elements. e.g a paragraph element looks like:
 - What goes in the `<head>` tag?
 - What is the `<body>`?
 - What goes in the `<body>` tag?
-- Explain `<title>` tag
-- Explain common meta tag usage like `<meta name="description">`, `<meta charset="">`.
+- What is the `<title>` tag
+- What is the common meta tag usage  `<meta name="description">`, `<meta charset="">`.
 
 
 # Exercise Description
@@ -55,15 +55,25 @@ HTML is composed of elements. e.g a paragraph element looks like:
 
 # Glossary & Terminology
 
-- `html tag` -
+- `Block HTML Element` - Block Elements always start on a new line and take up the entire width
+- `Browser Viewport` - The browser viewport is the size of the rectangle that a web page fills on your screen
+- `Charset Encdoing` - Character encoding is used to represent a repertoire of characters by some encoding system that assigns a number to each character for digital representation
+- `Empty HTML Element` - An Empty HTML Element has no child or text content
+- `HTML Attribute` - HTML attributes are used to change the behavior of an HTML element or to provide metadata for that element
+- `HTML Element` - HTML element is the fundamental functional unit in an HTML document
+- `HTML Tag` - HTML are text(s) in angle brackets and are used in creating HTML elements
+- `Inline HTML Element` - Inline Elements don't start on a new line and take up as much width as necessary
+- `Semantic HTML Element` - Semantic HTML Elements describes its meaning to both the browser and the developer
 
 ---
 
 # Homework
 
-// TODO
+- Read about at least ten semantic HTML elements and when to use them.
+- Read about the different HTML metadata elements
 
 # Resources
 
 - [MDN Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 - [Other types of metadata in head](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#other_types_of_metadata)
+- [Semantic HTML Elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantic_elements)
