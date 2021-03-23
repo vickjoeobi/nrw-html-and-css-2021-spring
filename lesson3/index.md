@@ -55,7 +55,7 @@ HTML is composed of elements. e.g a paragraph element looks like:
 
 # Glossary & Terminology
 
-- `Block HTML Element` - Block Elements always start on a new line and take up the entire width
+- `Block HTML Element` - Block Elements always start on a new line and take up the entire width.
 - `Browser Viewport` - The browser viewport is the size of the rectangle that a web page fills on your screen
 - `Charset Encdoing` - Character encoding is used to represent a repertoire of characters by some encoding system that assigns a number to each character for digital representation
 - `Empty HTML Element` - An Empty HTML Element has no child or text content
