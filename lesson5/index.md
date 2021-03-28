@@ -3,53 +3,93 @@ title: Lesson 5
 nav_order: 5
 ---
 
-(This is a recommended student notes structure. Please follow it and feel free to extend if you feel that you need to. But also make sure to at least contain the following sections.)
-
-(Also keep in mind that these student notes are not a must for how the class should be taught. You as a teacher can choose how to teach the class but also make sure to hand out the student notes, as well.)
-
-# Session Title
+# HTML Tags 2
 
 ## Class Agenda
 
-1. Intro to...
-2. HTML Tags..
-3. ...etc
+1. Div
+2. Lists
+3. Anchor (Hyperlinks)
+4. Images
 
-## 1. Intro to ...
 
-HTML is...
+## 1. Divs
+- Explain `<div>` as a block level non-semantic element.
+- When to use a div: when you can't find an appropriate semantic element.
 
-## 2. HTML Tags ...
+ETA: 5 mins
 
-HTML tags are...
 
-## 3. Section 3...
+## 2. Lists
+
+- Unordered lists `<ul>`
+- Ordered lists `<ol>`
+- Nesting lists
+- Task: Create a list of items for navigation
+
+```html
+<nav>
+    <ul>
+        <li>Work</li>
+        <li>Contact</li>
+    </ul>
+</nav>
+```
+
+ETA: 15 mins
+
+## 3. Anchor
+
+- What is a hyperlink?
+- Anatomy of a link
+  - `<a>content to click</a>`
+  - href attribute
+- Explanation of linking to URLs and Paths
+  - `<a href="http://www.google.com">Visit Google</a>`
+  - `<a href="contacts.html">contacts page</a>`
+  - `<a href="projects/index.html">project homepage</a>`
+  - `<a href="../files/cv.pdf">My CV</a>`
+  - E-mail links: `<a href="mailto:me@gmail.com">Email me!</a>`
+- Task: Creating a navigation menu
+  - Using the list of navigation text from the Lists section
+  - Change the text to hyperlinks
+  - Create HTML pages for each navigation link
+
+ETA: 35 mins
+
+
+## 4. Images
+- the <img> element
+- src attribute
+  - `<img src="photo.jpg">`
+  - `<img src="photos/selfie.jpg">`
+  - `<img src="https://en.wikipedia.org/wiki/Germany#/media/File:Flag_of_Germany.svg">`
+- Warning: Be careful when linking to images on the web that are not yours. To avoid Copyright Violations.
+- Alt text: `<img alt="A portrait of me" src="photo.jpg">`
+- Width and height attributes. (Warning: Aspect Ratio)
+
+ETA:
 
 # Exercise Description
 
-(a short explanation of what exercises are done during the class)
+Exercises should be done along while explaining the tags, by following the Tasks. After completing the Tasks, you should have content similar to `lesson5/project.html`
 
-- Download VS Code
-- Make a short Hello World example
 
 # Glossary & Terminology
 
-(please give related terms and vocabulary that you taught during the class)
-
-- `html tag` - An html tag is
-- `hypertext` - Hypertext means this and that
-- `...` - ...
+- `Ordered lists` - are lists in which the order of the items does matter. ([MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals))
+- `Unordered lists` - are used to mark up lists of items for which the order of the items doesn't matter. ([MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals))
 
 ---
 
 # Homework
 
-For next session please prepare this and that, etc...
+- Shopping list
+
 
 # Resources
 
-(please make sure to give links)
+- [MDN HTML Text Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
 
-- link to ... https://www.w3schools.com/html/
-- ...
-- ...
+
+
