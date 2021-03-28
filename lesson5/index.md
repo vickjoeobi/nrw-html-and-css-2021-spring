@@ -1,5 +1,5 @@
 ---
-title: Lesson 5
+title: Lesson 5 - HTML Tags 2
 nav_order: 5
 ---
 
