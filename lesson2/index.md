@@ -93,20 +93,21 @@ ETA: ~10min
 
 # Glossary & Terminology
 
-- `HTML` - Hyper Text Markup Language is a language for creating web pages
-- `CSS` - Cascading Style Sheets is a language for styling web pages
 - `Browser compatibility` - Browser compatibility is the ability of a certain website to work on different browser types and versions. In other words, when asking the following question, for example: "_Is this CSS rule compatible with Internet Explorer 9?_" we want to know whether the CSS rule will work on the Internet Explorer 9 browser
-- `Markup language` - A Markup language is a simple human-readable language which is used to make the so-called "notes" to the computer program (e.g. the browser)
-- `Programming language` - A Programming language is language in which we have set of instructions that are combined together in different ways in order to create a certain software program, for example. When we start this program it will follow our instructions and will receive input and compute some output.
-- `Static web page` - A static web page is a web page that always remains the same. All users in all browsers will see the same page and the functionality of the page cannot be changed when the web page is running in the browser.
+- `Cascading` - The term _"cascading"_ in the context of CSS describes the process of combining several style sheets and resolving conflicts between them.
+- `CSS` - Cascading Style Sheets is a language for styling web pages
 - `Dynamic web page` - A dynamic web page is a web page that can change its content when running in the browsers or show different content to different users.
+- `HTML` - Hyper Text Markup Language is a language for creating web pages
 - `Hyper Text` - Hyper text is a special text that just forms a link, that allows a user to click on it and get redirected to a new page referenced by that link.
   So it is a special text that just forms a link
-- `Cascading` - The term _"cascading"_ in the context of CSS describes the process of combining several style sheets and resolving conflicts between them.
-- `W3C` - W3C stands for World Wide Web Consortium, which is the main international standards organization for the World Wide Web. It maintains HTML and CSS specification (i.e. rules)
-- `Specification` - A specification is a collection of rules and requirements that form a certain technical standard. For example, W3C maintains the specification of HTML. In other words, W3C defines how HTML looks like and what its rules are.
+- `Markup language` - A Markup language is a simple human-readable language which is used to make the so-called "notes" to the computer program (e.g. the browser)
 - `MDN` Web Docs - MDN stands for Mozilla Developer Network. The MDN Web Docs is a website which provides information and documentation about Open Web technologies such as HTML and CSS.
+- `Programming language` - A Programming language is language in which we have set of instructions that are combined together in different ways in order to create a certain software program, for example. When we start this program it will follow our instructions and will receive input and compute some output.
+- `Specification` - A specification is a collection of rules and requirements that form a certain technical standard. For example, W3C maintains the specification of HTML. In other words, W3C defines how HTML looks like and what its rules are.
+- `Static web page` - A static web page is a web page that always remains the same. All users in all browsers will see the same page and the functionality of the page cannot be changed when the web page is running in the browser.
+- `W3C` - W3C stands for World Wide Web Consortium, which is the main international standards organization for the World Wide Web. It maintains HTML and CSS specification (i.e. rules)
 - `W3Schools` - W3Schools is another useful website which provides documentation for HTML and CSS
+
 
 ---
 
