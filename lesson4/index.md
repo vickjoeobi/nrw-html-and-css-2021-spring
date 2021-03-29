@@ -71,9 +71,9 @@ The exercise should be done along presenting all tags. If there is time at the e
 
 # Glossary & Terminology
 
-- `Empty tag` - An empty html tag is a tag which has no closing tag and no content. It simply stands on its own. Examples include, `<br>`, `<hr>`, `<meta>`
-- `Code Readability` - This is a characteristic of the code and specifies the level of ease with which a developer can read the code. If your code has bad readability then it would be very difficult for you and other people to understand what your code is doing.
 - `Code Maintainability` - This is a characteristic of the code and specifies the level of ease with which a developer can make changes to the code in future. If your code has bad maintainability then it would be very difficult for you or other people to change parts of the code in future. Code with bad maintainability is often leading to hidden bugs.
+- `Code Readability` - This is a characteristic of the code and specifies the level of ease with which a developer can read the code. If your code has bad readability then it would be very difficult for you and other people to understand what your code is doing.
+- `Empty tag` - An empty html tag is a tag which has no closing tag and no content. It simply stands on its own. Examples include, `<br>`, `<hr>`, `<meta>`
 
 ---
 
