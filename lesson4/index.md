@@ -7,13 +7,13 @@ nav_order: 4
 
 ## Class Agenda
 
-<!-- Headings, paragraph, line br, footer, images -->
+The class must not have a strict separation of theory and exercise. Instead the whole class must be one big exercise with theory in between. At the end of the class students would need to have written their own HTML document which follows the example given in the [HTML Checkpoint4 file](https://github.com/ReDI-School/nrw-html-and-css-2021-spring/blob/master/lesson4/Checkpoint4.html).
 
-The class should not have a strict separation of theory and exercise. Instead the whole class should be one big exercise with theory in between. At the end of the class students would need to have written their own HTML document which follows the example given in ... // TODO:
-
-<!-- 1. Headings
-2. HTML Paragraphs
-3. How to do maintainable HTML coding? -->
+1. Headings
+2. HTML paragraphs
+3. HTML text styling tags
+4. HTML Header and Footer
+5. Maintainable HTML
 
 # 1. Headings
 
@@ -22,7 +22,7 @@ The class should not have a strict separation of theory and exercise. Instead th
 
 ETA: 20min
 
-# 2. HTML Paragraphs
+# 2. HTML paragraphs
 
 Following the tutorial on <https://www.w3schools.com/html/html_paragraphs.asp> we need to learn about:
 
@@ -32,9 +32,12 @@ Following the tutorial on <https://www.w3schools.com/html/html_paragraphs.asp> w
 
 ETA: 30min
 
-# 3. HTML Text styling tags
+# 3. HTML text styling tags
 
-<!-- <b> - Bold text
+This section covers basic HTML tags used for styling text. These tags include. Students will exercise with couple of those tags.
+
+```
+<b> - Bold text
 <strong> - Important text
 <i> - Italic text
 <em> - Emphasized text
@@ -43,15 +46,14 @@ ETA: 30min
 <del> - Deleted text
 <ins> - Inserted text
 <sub> - Subscript text
-<sup> - Superscript text -->
-
-- Using couple of those to exercise.
+<sup> - Superscript text
+```
 
 ETA: 20min
 
-# 4. Header and Footer
+# 4. HTML Header and Footer
 
-Explain the semantic tags footer and header
+We would introduce the semantic HTML tags `<header>` and `<footer>`.
 
 ETA: 10 min
 
@@ -63,11 +65,9 @@ This section explains the importance of using comments. It also gives students a
 
 ETA: 10min
 
-(Should this be the last theoretical part before the exercise)
-
 # Exercise Description
 
-The exercise should be done along presenting all tags. If there is time at the end of the session, students can also fill in the content of the `CVTags`
+The exercise should be done along presenting all tags. If there is time at the end of the session, students can also fill in content of inside their website following the structure of the [HTML Checkpoint4 file](https://github.com/ReDI-School/nrw-html-and-css-2021-spring/blob/master/lesson4/Checkpoint4.html).
 
 # Glossary & Terminology
 
