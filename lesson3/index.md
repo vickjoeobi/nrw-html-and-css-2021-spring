@@ -16,6 +16,7 @@ nav_order: 3
 "At its heart, HTML is a fairly simple language made up of elements, which can be applied to pieces of text to give them different meaning in a document". [[1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)]
 
 HTML is composed of elements. e.g a paragraph element looks like:
+
 ```
 <p>Hello world!</p>
 ```
@@ -31,14 +32,14 @@ HTML is composed of elements. e.g a paragraph element looks like:
 - What is a Semantic Tag?
 
 ## 3. HTML Page Structure
+
 - What is DOCTYPE tag?
 - What is the `<html>` tag?
 - What goes in the `<head>` tag?
 - What is the `<body>`?
 - What goes in the `<body>` tag?
 - What is the `<title>` tag
-- What is the common meta tag usage  `<meta name="description">`, `<meta charset="">`.
-
+- What is the common meta tag usage `<meta name="description">`, `<meta charset="">`.
 
 # Exercise Description
 
@@ -47,7 +48,7 @@ HTML is composed of elements. e.g a paragraph element looks like:
   - VS Code
   - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - Browser (Google Chrome)
-- Practise creating a basic HTML page in the class
+- Practice creating a basic HTML page in the class
   - Write a basic HTML page just like `lesson2/Exercise.html`. Add the following tags also:
     - Add a Doctype tag to the page
     - Add a meta tag
@@ -57,7 +58,7 @@ HTML is composed of elements. e.g a paragraph element looks like:
 
 - `Block HTML Element` - A Block Element always starts on a new line and take up the entire width.
 - `Browser Viewport` - The browser viewport is the size of the rectangle that a web page fills on your screen
-- `Charset Encdoing` - Character encoding is used to represent a repertoire of characters by some encoding system that assigns a number to each character for digital representation, you can read more about it [here](https://en.wikipedia.org/wiki/Character_encoding)
+- `Charset Encoding` - Character encoding is used to represent a repertoire of characters by some encoding system that assigns a number to each character for digital representation, you can read more about it [here](https://en.wikipedia.org/wiki/Character_encoding)
 - `Empty HTML Element` - An Empty HTML Element has no child or text content
 - `HTML Attribute` - An HTML attribute is used to change the behavior of an HTML element or to provide metadata for that element
 - `HTML Element` - An HTML element is the fundamental functional unit in an HTML document
