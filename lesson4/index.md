@@ -8,6 +8,7 @@ nav_order: 4
 ## Class Agenda
 
 The class must not have a strict separation of theory and exercise. Instead the whole class must be one big exercise with theory in between.
+
 At the end of the class students would need to have written their own HTML document which follows the example given in the [HTML Checkpoint4 file](./Checkpoint4.html).
 
 1. Headings
