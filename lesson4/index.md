@@ -34,7 +34,7 @@ ETA: 30min
 
 # 3. HTML text styling tags
 
-This section covers basic HTML tags used for styling text. These tags include. Students will exercise with couple of those tags.
+This section covers basic HTML tags used for styling text. These tags include. Students should practice with a couple of these tags.
 
 ```
 <b> - Bold text
