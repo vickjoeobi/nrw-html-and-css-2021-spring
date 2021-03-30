@@ -93,3 +93,4 @@ Exercises should be done along while explaining the tags, by following the Tasks
 # Resources
 
 -   [MDN HTML Text Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+-   [MDN Anchor Element Page](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
