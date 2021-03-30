@@ -2,6 +2,10 @@
 
 (Also keep in mind that these student notes are not a must for how the class should be taught. You as a teacher can choose how to teach the class but also make sure to hand out the student notes, as well.)
 
+> _Recommendation:_
+>
+> Most classes would require a lot of hands-on knowledge on the actual material. Please make sure to not split those classes into one hour theory and one hour exercise. Instead please try to combine both and do the exercise along teaching the theory
+
 # Session Title
 
 ## Class Agenda
@@ -29,7 +33,7 @@ HTML tags are...
 
 # Glossary & Terminology
 
-(please give related terms and vocabulary that you taught during the class)
+(please give related terms and vocabulary that you taught during the class. Make sure to put them in an alphabetical order)
 
 - `html tag` - An html tag is
 - `hypertext` - Hypertext means this and that
