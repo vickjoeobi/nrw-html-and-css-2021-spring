@@ -11,6 +11,7 @@ nav_order: 5
 2. Lists
 3. Anchor (Hyperlinks)
 4. Images
+5. Base
 
 ## 1. Div, Span, and Section
 
@@ -74,6 +75,12 @@ ETA: 35 mins
 
 ETA: 20 mins
 
+## 5. Base Element
+- <base href="https://www.w3schools.com/">
+- <base href=".">
+
+ETA: 15 mins
+
 # Exercise Description
 
 Exercises should be done along while explaining the tags, by following the Tasks. After completing the Tasks, you should have content similar to `lesson5/Checkpoint5`
@@ -87,7 +94,8 @@ Exercises should be done along while explaining the tags, by following the Tasks
 
 # Homework
 
--   Create a Shopping list
+-   Create a Shopping list that looks like [this image]() // TODO: Add image
+-   Add a list of your social media accounts to the footer
 -   Read about other attributes used with the `<a>` tags
 
 # Resources
