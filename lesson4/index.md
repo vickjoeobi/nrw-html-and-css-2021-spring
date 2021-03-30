@@ -3,7 +3,7 @@ title: Lesson 4
 nav_order: 4
 ---
 
-# HTML Tags 1
+# Lesson 4 - HTML Tags 1
 
 ## Class Agenda
 
