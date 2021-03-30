@@ -56,6 +56,7 @@ ETA: 15 mins
     -   `<a href="../files/cv.pdf">My CV</a>`
     -   E-mail links: `<a href="mailto:me@gmail.com">Email me!</a>`
 -   Task: Creating a navigation menu
+    -   Tip: A navigation is a list of links typically found at the top of a webpage
     -   Create a list items to form a navigation
     -   Change the text to hyperlinks
     -   Create HTML pages for each navigation link
@@ -76,8 +77,9 @@ ETA: 35 mins
 ETA: 20 mins
 
 ## 5. Base Element
-- <base href="https://www.w3schools.com/">
-- <base href=".">
+
+-   <base href="https://www.w3schools.com/">
+-   <base href=".">
 
 ETA: 15 mins
 
