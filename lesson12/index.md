@@ -1,6 +1,6 @@
 ---
-title: Lesson 10
-nav_order: 10
+title: Lesson 12
+nav_order: 12
 ---
 
 # Session Title

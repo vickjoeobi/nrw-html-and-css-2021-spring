@@ -3,13 +3,11 @@ title: Lesson 9
 nav_order: 9
 ---
 
-(This is a recommended student notes structure. Please follow it and feel free to extend if you feel that you need to. But also make sure to at least contain the following sections.)
-
-(Also keep in mind that these student notes are not a must for how the class should be taught. You as a teacher can choose how to teach the class but also make sure to hand out the student notes, as well.)
-
 # Session Title
 
 ## Class Agenda
+
+// TODO: Brainstorm and put ideas
 
 1. Intro to...
 2. HTML Tags..
