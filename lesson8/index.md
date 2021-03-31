@@ -11,19 +11,29 @@ nav_order: 8
 
 ## Class Agenda
 
-1. Intro to...
-2. HTML Tags..
-3. ...etc
+Content Proposal for lesson 8 (Intro to CSS) - (although not part of this PR)
+We can follow the [W3Schools CSS Tutorial](https://www.w3schools.com/css/default.asp) which I find good enough
 
-## 1. Intro to ...
+1. Recap of CSS Intro (from [lesson 2](https://redi-school.github.io/nrw-html-and-css-2021-spring/lesson2/#2-introduction-to-css)) -> ETA: 10mins
+2. CSS Syntax -> ETA 10-15min
+3. CSS Selectors I -> ETA 40 min
 
-HTML is...
+- Categorization of the different selector groups as per W3S
+- Teaching Students the simple CSS Selector group (first of the five) as shown [here](https://www.w3schools.com/css/css_selectors.asp) . That includes (element, class, id, universal and grouping selectors)
 
-## 2. HTML Tags ...
+> My idea is that in some other lesson down the course we have a section called `CSS Selectors ||` which covers advanced CSS Selectors (the rest 4 out of 5 groups) 4. How to add CSS to HTML -> ETA 40 mins
 
-HTML tags are...
+- explaining the different ways to add css as per [W3S](https://www.w3schools.com/css/css_howto.asp) and also provide the differences / pros and cons
+- Teach the cascading order? What is the CSS Specificity order?
+- Also what happens if two identical css rules (with different values) are applied to the same one.
 
-## 3. Section 3...
+Exercise:
+
+- PRactice adding CSS to html via the different selectors and via the different integration methods. Students should not learn about CSS rules in this course, they should rather use a simple `{background: red}` rule, for example to learn selectors and html integration
+
+Homework:
+
+- We can ask them to use one inline, one class , one element, one id class and so on in their CV (with background red). We can again show them an image of what we want to achieve
 
 # Exercise Description
 
