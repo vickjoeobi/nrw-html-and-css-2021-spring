@@ -16,7 +16,7 @@ nav_order: 5
 ## 1. Div, Span, and Section
 
 - The concept of block and inline elements was introduced in Lesson 3. The teacher should revise it with the students again and show examples.
-- Explain characteristics of a block and inline elements. <https://www.w3schools.com/html/html_blocks.asp>
+- Explain characteristics of block and inline elements. <https://www.w3schools.com/html/html_blocks.asp>
 - Explain `<div>` as a block level non-semantic element.
 - When to use a div: when you can't find an appropriate semantic element.
 - Explain `<span>` as an inline level non-semantic element.
@@ -77,7 +77,7 @@ ETA: 35 mins
 ETA: 20 mins
 
 ## 5. Base Element
-
+This section covers the html `<base>` tag and its use cases. The following examples should be covered.
 - <base href="https://www.w3schools.com/">
 - <base href=".">
 
@@ -88,9 +88,9 @@ ETA: 15 mins
 Exercises should be done along while explaining the tags, by following the Tasks. After completing the Tasks, you should have content similar to `lesson5/Checkpoint5`
 
 # Glossary & Terminology
-
+- `Hyperlink` - Hyperlinks are any links that are comprised of text, image, video, etc. A hypertext is a form of hyperlink, which uses text. More information on the differences between hyperlink and hypertext can be found [here](https://www.geeksforgeeks.org/hyperlink-vs-hypertext/#:~:text=Difference%20between%20Hyperlink%20and%20Hypertext%3A&text=Hypertext%20contains%20the%20Non%2Dlinear,video%2C%20images%2C%20and%20graphics.).
 - `Ordered lists` - are lists in which the order of the items does matter. ([MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals))
-- `Unordered lists` - are used to mark up lists of items for which the order of the items doesn't matter. ([MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals))
+- `Unordered lists` - are used to make up lists of items for which the order of the items doesn't matter. ([MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals))
 
 ---
 
