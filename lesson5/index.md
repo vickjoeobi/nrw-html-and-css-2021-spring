@@ -78,8 +78,8 @@ ETA: 20 mins
 
 ## 5. Base Element
 This section covers the html `<base>` tag and its use cases. The following examples should be covered.
-- <base href="https://www.w3schools.com/">
-- <base href=".">
+- `<base href="https://www.w3schools.com/">`
+- `<base href=".">`
 
 ETA: 15 mins
 
