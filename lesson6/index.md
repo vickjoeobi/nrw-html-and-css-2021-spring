@@ -5,7 +5,7 @@ nav_order: 6
 
 # HTML Tags 3
 
-This session teaches HTML Tags that go beyond the scope of our CV Project website. The exercises could still use the content of checkpoint 5 but at the end of the lesson, there should be now new content added to the CV Website. In other words, checkpoint 6 is the same as checkpoint 5.
+This session teaches HTML Tags that go beyond the scope of our CV Project website. The exercises could still use the content of checkpoint 5 but at the end of the lesson, there should be no new content added to the CV Website. In other words, checkpoint 6 is the same as checkpoint 5.
 
 > If a student insists that they use a certain HTML Tag which they learnt during this lesson, then they can still add it to their personal CV website but the general content should remain the same between checkpoint 5 and checkpoint 6
 
@@ -14,7 +14,7 @@ This session teaches HTML Tags that go beyond the scope of our CV Project websit
 1. HTML Tables
 2. HTML Multimedia
 3. HTML Entities
-4. HTML Other tags
+4. Other HTML  Tags
 
 ## 1. HTML Tables
 
@@ -53,7 +53,7 @@ This section should explain how to add html [character entities](https://www.w3s
 
 ETA: 15mins
 
-# 4. HTML Other Tags
+# 4. Other HTML Tags
 
 This section covers various HTML tags which are less famous but good to keep in mind. These include
 
@@ -71,7 +71,11 @@ ETA: 25min
 
 # Exercise Description
 
-Exercises should be done along while explaining the tags. This lesson does not add any new content to our project because the information taught in the lecture does not strictly relate to the CV website. Therefore, after completing lesson 6 students should simply move to Checkpoint 6 without adding anything new to the content of Checkpoint 5. In other words Checkpoint 5 and 6 are the same.
+Exercises should be done along while explaining the tags. 
+
+This lesson does not add any new content to our project because the information taught in the lecture does not strictly relate to the CV website. 
+
+Therefore, Checkpoint 5 will be used in the beginning of lesson 7.
 
 # Glossary & Terminology
 
