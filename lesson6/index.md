@@ -5,16 +5,16 @@ nav_order: 6
 
 # HTML Tags 3
 
-This session teaches HTML Tags that go beyond the scope of our CV Project website. The exercises could still use the content of checkpoint 5 but at the end of the lesson, there should be no new content added to the CV Website. In other words, checkpoint 6 is the same as checkpoint 5.
+This session teaches HTML Tags that go beyond the scope of our CV Project website. The exercises could still use the content of checkpoint 5 but at the end of the lesson, there should be no new content added to the CV Website. In other words, there is no checkpoint 6 but we would instead use checkpoint 5 in the beginning of lesson 7.
 
-> If a student insists that they use a certain HTML Tag which they learnt during this lesson, then they can still add it to their personal CV website but the general content should remain the same between checkpoint 5 and checkpoint 6
+> If a student insists that they use a certain HTML Tag which they learnt during this lesson, then they can still add it to their personal CV website but the general content at the beginning of lesson 7 should be the content from checkpoint 5.
 
 ## Class Agenda
 
 1. HTML Tables
 2. HTML Multimedia
 3. HTML Entities
-4. Other HTML  Tags
+4. Other HTML Tags
 
 ## 1. HTML Tables
 
@@ -71,9 +71,9 @@ ETA: 25min
 
 # Exercise Description
 
-Exercises should be done along while explaining the tags. 
+Exercises should be done along while explaining the tags.
 
-This lesson does not add any new content to our project because the information taught in the lecture does not strictly relate to the CV website. 
+This lesson does not add any new content to our project because the information taught in the lecture does not strictly relate to the CV website.
 
 Therefore, Checkpoint 5 will be used in the beginning of lesson 7.
 
