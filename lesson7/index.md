@@ -21,7 +21,7 @@ nav_order: 7
   - Contact Form
   - Payment Form
 
-ETA: 15 mins
+ETA: 20 mins
 
 ## 2. Form Tags (Part 1)
 
@@ -47,6 +47,8 @@ ETA: 15 mins
   - `<button type="submit">Submit</button>`
   - See other input types [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#input_types)
 
+ETA: 25 mins
+
 ### `<label>`
 
 - represents a caption for an item
@@ -55,16 +57,17 @@ ETA: 15 mins
   - A screen reader will read out the label when a user interacts with it's input
 - the `for` attribute
 
+ETA: 15 mins
+
 ### `<textarea>`
 
 - represents a multi-line plain-text editing
 - Note: This is not an empty element. It requires a closing tag.
 
+ETA: 10 mins
+
 - Task: Make time for students to try out the introduced tags.
 - Task: Show this [image](./form-quiz.png) of a contact form, and let students identify tags to be used for creating it.
-
-ETA: 40 mins
-
 - Task: Checkpoint 7: Create a "Contact Me" Page for the Portfolio Project.
   - Students are to create a contact form similar to [this](./form-sketch.png)
   - The page should use the introduced tags
@@ -79,7 +82,7 @@ ETA: 30 mins
 - `<select>`
 - `<option>`
 
-ETA: 20 mins
+ETA: 10 mins
 
 ## 4. Online Form Caveats
 
@@ -99,7 +102,7 @@ Students should complete Checkpoint 7 as described above.
 
 # Homework
 
-For next session please prepare this and that, etc...
+- Read about <fieldset> and <legend> elements [here](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
 
 # Resources
 
