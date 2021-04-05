@@ -44,7 +44,7 @@ ETA: 15 mins
   - `<input type="password">`
   - `<input type="search">`
   - `<input type="submit">`
-  - `<button>`
+  - `<button type="submit">Submit</button>`
   - See other input types [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#input_types)
 
 ### `<label>`
@@ -61,7 +61,7 @@ ETA: 15 mins
 - Note: This is not an empty element. It requires a closing tag.
 
 - Task: Make time for students to try out the introduced tags.
-- Task: Show an image of a contact form, and let students identify tags to be used for creating it.
+- Task: Show this [image](./form-quiz.png) of a contact form, and let students identify tags to be used for creating it.
 
 ETA: 40 mins
 
