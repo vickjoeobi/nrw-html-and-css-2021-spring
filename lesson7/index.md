@@ -9,8 +9,6 @@ nav_order: 7
 
 1. What are HTML Forms?
 2. Form Tags (Part 1)
-3. Form Tags (Part 2)
-4. Online Form Caveats
 
 ## 1. What are HTML forms?
 
@@ -25,7 +23,7 @@ ETA: 20 mins
 
 ## 2. Form Tags (Part 1)
 
-- There are many tags needed to make a working form. We will cover a few.
+- There are many tags needed to make a working form. For now, we will cover a few.
 
 ### `<form>`
 
@@ -75,23 +73,6 @@ ETA: 10 mins
 
 ETA: 30 mins
 
-## 3. Form Tags (Part 2)
-
-- `<input type="checkbox">`
-- `<input type="radio">`
-- `<select>`
-- `<option>`
-
-ETA: 10 mins
-
-## 4. Online Form Caveats
-
-- Beware of spams (malicious entities - humans or bots - submitting unwanted data)
-- Preventing form spam
-  - There are many ways of preventing form spam. A popular one is Google reCAPTCHA
-
-ETA: 10 mins
-
 # Exercise Description
 
 Students should complete Checkpoint 7 as described above.
@@ -102,7 +83,8 @@ Students should complete Checkpoint 7 as described above.
 
 # Homework
 
-- Read about <fieldset> and <legend> elements [here](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+- Go over everything we have covered for HTML so far. The next class will be on CSS, so make sure you understand what has been taught so far.
+- Review your copy of the Portfolio Project and make sure that you are at a similar structure with Checkpoint 7.
 
 # Resources
 
