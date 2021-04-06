@@ -21,7 +21,9 @@ We can follow the [W3Schools CSS Tutorial](https://www.w3schools.com/css/default
 - Categorization of the different selector groups as per W3S
 - Teaching Students the simple CSS Selector group (first of the five) as shown [here](https://www.w3schools.com/css/css_selectors.asp) . That includes (element, class, id, universal and grouping selectors)
 
-> My idea is that in some other lesson down the course we have a section called `CSS Selectors ||` which covers advanced CSS Selectors (the rest 4 out of 5 groups) 4. How to add CSS to HTML -> ETA 40 mins
+> My idea is that in some other lesson down the course we have a section called `CSS Selectors ||` which covers advanced CSS Selectors (the rest 4 out of 5 groups) 
+
+4. How to add CSS to HTML -> ETA 40 mins
 
 - explaining the different ways to add css as per [W3S](https://www.w3schools.com/css/css_howto.asp) and also provide the differences / pros and cons
 - Teach the cascading order? What is the CSS Specificity order?
