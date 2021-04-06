@@ -73,6 +73,14 @@ ETA: 10 mins
 
 ETA: 30 mins
 
+## Form Tags (Part 2)
+**If there's more time left in the class**
+
+- `<input type="checkbox">`
+- `<input type="radio">`
+- `<select>`
+- `<option>`
+
 # Exercise Description
 
 Students should complete Checkpoint 7 as described above.
