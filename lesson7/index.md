@@ -66,12 +66,15 @@ ETA: 10 mins
 
 - Task: Make time for students to try out the introduced tags.
 - Task: Show this [image](./form-quiz.png) of a contact form, and let students identify tags to be used for creating it.
-- Task: Checkpoint 7: Create a "Contact Me" Page for the Portfolio Project.
+- Task: Checkpoint 7:
+  - Take a few mins to explain the concept of Checkpoints to the students and how we are using it to build the Portfolio Project, and ensure they are up to date
+
+- Create a "Contact Me" Page for the Portfolio Project.
   - Students are to create a contact form similar to [this](./form-sketch.png)
   - The page should use the introduced tags
   - The students should test that their forms can submit data
 
-ETA: 30 mins
+ETA: 40 mins
 
 ## Form Tags (Part 2)
 **If there's more time left in the class**
