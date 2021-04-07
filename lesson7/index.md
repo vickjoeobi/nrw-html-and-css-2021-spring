@@ -9,6 +9,7 @@ nav_order: 7
 
 1. What are HTML Forms?
 2. Form Tags (Part 1)
+3. Form Tags Part 2 (if there is time)
 
 ## 1. What are HTML forms?
 
