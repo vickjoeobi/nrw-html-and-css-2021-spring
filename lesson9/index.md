@@ -1,43 +1,68 @@
 ---
-title: Lesson 9
+title: Lesson 9 - CSS Text Formatting
 nav_order: 9
 ---
 
-(This is a recommended student notes structure. Please follow it and feel free to extend if you feel that you need to. But also make sure to at least contain the following sections.)
-
-(Also keep in mind that these student notes are not a must for how the class should be taught. You as a teacher can choose how to teach the class but also make sure to hand out the student notes, as well.)
-
-# Session Title
+# CSS Text Formatting
 
 ## Class Agenda
 
-1. Intro to...
-2. HTML Tags..
-3. ...etc
+1. CSS Descendant selector
+2. CSS Comments
+3. CSS Basic Colors
+4. Formatting Text with CSS
+5. CSS Fonts
 
-## 1. Intro to ...
+## 1. CSS Descendant selector
 
-HTML is...
+ETA: 10mins
 
-## 2. HTML Tags ...
+## 2. CSS Comments
 
-HTML tags are...
+ETA: 10mins
 
-## 3. Section 3...
+## 3. CSS Basic Colors
+
+- e.g Tomato
+
+Explain applying colors using the following rules:
+
+- Background Color
+- Text Color
+- Border Color
+
+ETA: 20 mins
+
+## 4. Formatting Text with CSS
+
+- Text Alignment (`text-align`)
+- Text Direction
+- Vertical Alignment
+- Text Shadow (beware: don't overuse text shadows on your websites)
+- Text Decoration
+- Text Indentation
+
+ETA: 30 mins (Give enough time for students to practice)
+
+## 5. CSS Fonts
+
+- Font Families
+- Web Safe Fonts and Font Fallback
+- Font style (font-style)
+
+ETA: 30 mins
 
 # Exercise Description
 
-(a short explanation of what exercises are done during the class)
+Exercises should be done along with the content of the lecture. After completing the Tasks, you should have content similar to `lesson9/Checkpoint9`
 
-- Download VS Code
-- Make a short Hello World example
+Checkpoint 9 goals:
+
+- Apply font to you page
+- Text align on the footer
 
 # Glossary & Terminology
 
-(please give related terms and vocabulary that you taught during the class)
-
-- `html tag` - An html tag is
-- `hypertext` - Hypertext means this and that
 - `...` - ...
 
 ---
@@ -47,8 +72,6 @@ HTML tags are...
 For next session please prepare this and that, etc...
 
 # Resources
-
-(please make sure to give links)
 
 - link to ... https://www.w3schools.com/html/
 - ...
