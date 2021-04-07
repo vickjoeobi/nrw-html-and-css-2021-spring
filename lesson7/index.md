@@ -72,7 +72,7 @@ ETA: 10 mins
 - Create a "Contact Me" Page for the Portfolio Project.
   - Students are to create a contact form similar to [this](./form-sketch.png)
   - The page should use the introduced tags
-  - The students should test that their forms can submit data
+  - The students should test that their forms can submit data with both GET and POST methods.
 
 ETA: 40 mins
 
