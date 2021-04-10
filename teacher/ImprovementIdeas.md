@@ -23,3 +23,8 @@ It seems that some students have problems when working with VS Code. We might ne
 - How to start the live development server
 - How to save / edit file (when is a file not saved and when is it saved)
 - etc.
+
+## Idea 5
+
+I recommend that we use an Online Code Editor like [CodeSandbox](https://codesandbox.io) in class for students to write code. 
+It is easier for the teacher to see their progress in real time that way compared to screen sharing. (Seun)
