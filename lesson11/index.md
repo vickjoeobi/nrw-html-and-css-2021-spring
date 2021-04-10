@@ -25,7 +25,7 @@ This section teaches students how to deciorate various links found on the websit
 - How do we add background color to links?
 - How do we convert links to buttons, and style them with CSS?
 
-ETA: 40min
+ETA: 45min
 
 ## 2. CSS Icons
 
@@ -48,7 +48,7 @@ This section is all about Lists. Either creating lisits using CSS or designing t
 - Changing list styles such as position of list item Marker, Changing the default style etc.
 - Styling the list colours.
 
-ETA: 15mins
+ETA: 45mins
 
 
 # Exercise Description
