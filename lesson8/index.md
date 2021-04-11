@@ -29,7 +29,7 @@ ETA: 10 mins
 
 ## 3. CSS Selectors I
 
-- What are the categorization of the different selector groups?
+- How can we categorize the different selector groups?
 - What are the CSS Simple Selectors?
 - How do we use the CSS element selector?
 - How do we use the CSS id selector?
