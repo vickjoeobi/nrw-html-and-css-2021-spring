@@ -2,14 +2,14 @@ body {
     background-color: grey;
 }
 
-#aboutSection {
-    background-color: white;
+#about {
+    background-color: peachpuff;
 }
 
-#proficiencySection {
-    background-color: white;
+#proficiency {
+    background-color: peachpuff;
 }
 
 .section {
-    padding: 1%;
+    background-color: paleturquoise;
 }
