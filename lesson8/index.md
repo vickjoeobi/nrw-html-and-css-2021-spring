@@ -51,7 +51,7 @@ ETA: 30 mins
 
 - Create an external CSS file
 - Link it to your HTML file
-- Use the element CSS simple selector to make the background color of your portfolio website grey as shown [here](./grey-background.png)
+- Make your portfolio website look like [this](./grey-background.png) using the element, id and class CSS simple selectors
 
 ETA: 20 mins
 
@@ -62,7 +62,6 @@ ETA: 20 mins
 
 # Homework
 
-- Use the other CSS simple selectors to achieve the same result from the exercise in this class.
 - Use internal CSS and Inline CSS to achieve the same result from the exercise in this class.
 
 # Resources
