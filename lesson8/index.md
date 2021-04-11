@@ -22,7 +22,7 @@ ETA: 10 mins
 
 ## 2. CSS Syntax
 
-- What does a CSS rule consists of?
+- What does a CSS rule consist of?
 - How do you construct a declaration block for a CSS rule?
 
 ETA: 10 mins
