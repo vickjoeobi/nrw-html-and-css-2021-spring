@@ -1,55 +1,72 @@
 ---
-title: Lesson 8
+title: Lesson 8 - Introduction to CSS
 nav_order: 8
 ---
 
-(This is a recommended student notes structure. Please follow it and feel free to extend if you feel that you need to. But also make sure to at least contain the following sections.)
-
-(Also keep in mind that these student notes are not a must for how the class should be taught. You as a teacher can choose how to teach the class but also make sure to hand out the student notes, as well.)
-
-# Session Title
+# Introduction to CSS
 
 ## Class Agenda
 
-1. Intro to...
-2. HTML Tags..
-3. ...etc
+1. Recap of CSS Intro (from [lesson 2](https://redi-school.github.io/nrw-html-and-css-2021-spring/lesson2/#2-introduction-to-css))
+2. CSS Syntax
+3. CSS Selectors I
+4. How to add CSS to HTML
 
-## 1. Intro to ...
+## 1. Recap of CSS Intro from Lesson 2?
 
-HTML is...
+- What is CSS?
+- What does Style Sheet in CSS stand for?
+- How do the CSS rules and language looks like?
 
-## 2. HTML Tags ...
+ETA: 10 mins
 
-HTML tags are...
+## 2. CSS Syntax
 
-## 3. Section 3...
+- What does a CSS rule consist of?
+- How do you construct a declaration block for a CSS rule?
+
+ETA: 10 mins
+
+## 3. CSS Selectors I
+
+- How can we categorize the different selector groups?
+- What are the CSS Simple Selectors?
+- How do we use the CSS element selector?
+- How do we use the CSS id selector?
+- How do we use the CSS class selector?
+- How do we use the CSS universal selector?
+- How do we use the CSS grouping selector?
+
+ETA: 40 mins
+
+## 4. How to add CSS to HTML
+
+- What are the different ways to add css to HTML?
+- What is the CSS cascading and specificity order?
+- What happens if two identical CSS rules (with different values) are applied to same element?
+
+ETA: 30 mins
 
 # Exercise Description
 
-(a short explanation of what exercises are done during the class)
+- Create an external CSS file
+- Link it to your HTML file
+- Make your portfolio website look like [this](./grey-background.png) using the element, id and class CSS simple selectors
 
-- Download VS Code
-- Make a short Hello World example
+ETA: 20 mins
 
 # Glossary & Terminology
 
-(please give related terms and vocabulary that you taught during the class)
-
-- `html tag` - An html tag is
-- `hypertext` - Hypertext means this and that
-- `...` - ...
-
----
+- CSS cascade - CSS cascade is an algorithm that defines how to combine property values originating from different sources.
+- CSS specificity - CSS Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied
 
 # Homework
 
-For next session please prepare this and that, etc...
+- Use internal CSS and Inline CSS to achieve the same result from the exercise in this class.
 
 # Resources
 
-(please make sure to give links)
-
-- link to ... https://www.w3schools.com/html/
-- ...
-- ...
+- [How to add CSS to HTML](https://www.w3schools.com/css/css_howto.asp)
+- [CSS selectors](https://www.w3schools.com/css/css_selectors.asp)
+- [CSS specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
+- [CSS cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
