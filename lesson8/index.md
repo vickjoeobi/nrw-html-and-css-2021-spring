@@ -12,7 +12,6 @@ nav_order: 8
 3. CSS Selectors I
 4. How to add CSS to HTML
 
-
 ## 1. Recap of CSS Intro from Lesson 2?
 
 - What is CSS?
@@ -21,14 +20,12 @@ nav_order: 8
 
 ETA: 10 mins
 
-
 ## 2. CSS Syntax
 
 - What does a CSS rule consists of?
 - How do you construct a declaration block for a CSS rule?
 
 ETA: 10 mins
-
 
 ## 3. CSS Selectors I
 
@@ -42,7 +39,6 @@ ETA: 10 mins
 
 ETA: 40 mins
 
-
 ## 4. How to add CSS to HTML
 
 - What are the different ways to add css to HTML?
@@ -51,8 +47,7 @@ ETA: 40 mins
 
 ETA: 30 mins
 
-
-# Exercise Description 
+# Exercise Description
 
 - Create an external CSS file
 - Link it to your HTML file
@@ -60,18 +55,15 @@ ETA: 30 mins
 
 ETA: 20 mins
 
-
 # Glossary & Terminology
 
 - CSS cascade - CSS cascade is an algorithm that defines how to combine property values originating from different sources.
 - CSS specifity - CSS Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied
 
-
 # Homework
 
 - Use the other CSS simple selectors to achieve the same result from the exercise in this class.
-- Use internal CSS and Inline CSS to achieve the same result from the exercise in this class. 
-
+- Use internal CSS and Inline CSS to achieve the same result from the exercise in this class.
 
 # Resources
 
