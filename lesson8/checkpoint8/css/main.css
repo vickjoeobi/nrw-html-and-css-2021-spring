@@ -1,3 +1,15 @@
 body {
     background-color: grey;
 }
+
+#aboutSection {
+    background-color: white;
+}
+
+#proficiencySection {
+    background-color: white;
+}
+
+.section {
+    padding: 1%;
+}
