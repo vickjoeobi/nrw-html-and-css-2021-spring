@@ -58,7 +58,7 @@ ETA: 20 mins
 # Glossary & Terminology
 
 - CSS cascade - CSS cascade is an algorithm that defines how to combine property values originating from different sources.
-- CSS specifity - CSS Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied
+- CSS specificity - CSS Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied
 
 # Homework
 
