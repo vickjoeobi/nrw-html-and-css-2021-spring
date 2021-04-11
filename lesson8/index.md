@@ -16,7 +16,7 @@ nav_order: 8
 
 - What is CSS?
 - What does Style Sheet in CSS stand for?
-- How does CSS rules and language looks like?
+- How do the CSS rules and language looks like?
 
 ETA: 10 mins
 
