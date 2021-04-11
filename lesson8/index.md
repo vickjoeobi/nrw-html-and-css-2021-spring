@@ -42,7 +42,7 @@ ETA: 40 mins
 ## 4. How to add CSS to HTML
 
 - What are the different ways to add css to HTML?
-- What is the CSS cascading and specifity order?
+- What is the CSS cascading and specificity order?
 - What happens if two identical CSS rules (with different values) are applied to same element?
 
 ETA: 30 mins
