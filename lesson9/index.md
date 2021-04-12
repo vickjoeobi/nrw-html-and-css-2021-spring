@@ -61,12 +61,10 @@ ETA: 30 mins
 
 # Exercise Description
 
-Exercises should be done along with the content of the lecture. After completing the Tasks, you should have content similar to `lesson9/Checkpoint9`
+Exercises should be done along with the content of the lecture. After completing the Tasks, you should have content similar to `lesson9/Checkpoint9`. Checkpoint 9 adds the following things on top of Checkpoint 8:
 
-Checkpoint 9 goals:
-
-- Apply font to you page
-- Text align on the footer
+- Applying font on the page
+- Text aligning the content of the footer
 
 # Glossary & Terminology
 
