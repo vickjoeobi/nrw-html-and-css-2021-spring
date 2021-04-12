@@ -58,6 +58,7 @@ ETA: 20 mins
 # Glossary & Terminology
 
 - CSS cascade - CSS cascade is an algorithm that defines how to combine property values originating from different sources.
+- CSS Selector - A CSS selector is the first part of a CSS Rule. It is a pattern of elements and other terms that tell the browser which HTML elements should be selected to have the CSS property values inside the rule applied to them. More on this [here](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors#what_is_a_selector).
 - CSS specificity - CSS Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied
 
 # Homework
