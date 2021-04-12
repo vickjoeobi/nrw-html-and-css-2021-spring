@@ -56,6 +56,7 @@ A crucial role on all websites plays the font. It can give a totally different l
 - What are the [safe web fonts](https://www.w3schools.com/css/css_font_websafe.asp)?
 - Why is it important to have fallback fonts?
 - What is the CSS [`font-style`](https://www.w3schools.com/css/css_font_style.asp) rule doing?
+- How can we inspect which font-family is used on a page?
 
 ETA: 30 mins
 
@@ -75,7 +76,7 @@ Exercises should be done along with the content of the lecture. After completing
 
 # Homework
 
-For next session please prepare this and that, etc...
+- Read more about different web font families [here](https://www.hostinger.com/tutorials/best-html-web-fonts). Get to know what the different companies are using
 
 # Resources
 
