@@ -92,4 +92,4 @@ Exercises should be done along with the content of the lecture. After completing
 - [CSS Standard Names](https://www.w3schools.com/colors/colors_names.asp)
 - [CSS Text](https://www.w3schools.com/css/css_text.asp)
 - [CSS Font](https://www.w3schools.com/css/css_font.asp)
-- [Safe Web Fonts](https://www.w3schools.com/css/css_font_websafe.asp)
+- [Web Safe Fonts](https://www.w3schools.com/css/css_font_websafe.asp)
