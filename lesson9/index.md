@@ -15,25 +15,29 @@ nav_order: 9
 
 ## 1. CSS Descendant selector
 
+This section will teach how to match descendant elements by using the CSS Descendant Selector.
+
 ETA: 10mins
 
 ## 2. CSS Comments
+
+Just like we can add HTML comments to our html files we can also add CSS comments to our CSS code. This section will cover how to do that.
 
 ETA: 10mins
 
 ## 3. CSS Basic Colors
 
-- e.g Tomato
-
-Explain applying colors using the following rules:
+This section will cover some basic CSS colors using the [standard color names](https://www.w3schools.com/colors/colors_names.asp) (e.g. Tomato, Azure, DodgerBlue, etc.). It will also practice the usage of those color names together with the following CSS Rules, which students will learn:
 
 - Background Color
 - Text Color
-- Border Color
+- Border Color (keep in mind that this only covers the border color without the border style and sizes. We can use `2px solid` without going into details)
 
 ETA: 20 mins
 
 ## 4. Formatting Text with CSS
+
+We have learned how to apply basic text formatting on a website by using some [HTML text formatting tags](https://redi-school.github.io/nrw-html-and-css-2021-spring/lesson4/#3-html-text-styling-tags). However, most of the text formatting is done via abundant CSS text formatting rules. Therefore, this section will cover some of those CSS rules including:
 
 - Text Alignment (`text-align`)
 - Text Direction
@@ -42,13 +46,16 @@ ETA: 20 mins
 - Text Decoration
 - Text Indentation
 
-ETA: 30 mins (Give enough time for students to practice)
+ETA: 30 mins (Students should have enough time to practice)
 
 ## 5. CSS Fonts
 
-- Font Families
-- Web Safe Fonts and Font Fallback
-- Font style (font-style)
+A crucial role on all websites plays the font. It can give a totally different look and feel on your website. This section covers:
+
+- What are the different generic [font families](https://www.w3schools.com/css/css_font.asp)?
+- What are the [safe web fonts](https://www.w3schools.com/css/css_font_websafe.asp)?
+- Why is it important to have fallback fonts?
+- What is the CSS [`font-style`](https://www.w3schools.com/css/css_font_style.asp) rule doing?
 
 ETA: 30 mins
 
@@ -63,7 +70,8 @@ Checkpoint 9 goals:
 
 # Glossary & Terminology
 
-- `...` - ...
+- `Ancestor Element` - An ancestor refers to any element that is connected to another element in the HTML Tree but is placed further up the document tree - no matter how many levels higher. Check out this [guide](http://web.simmons.edu/~grabiner/comm244/weekfour/document-tree.html).
+- `Descendant Element` - A descendant refers to any element that is connected to another element in the HTML Tree but is placed lower down the document tree - no matter how many levels lower. Check out this [guide](http://web.simmons.edu/~grabiner/comm244/weekfour/document-tree.html).
 
 ---
 
@@ -73,6 +81,10 @@ For next session please prepare this and that, etc...
 
 # Resources
 
-- link to ... https://www.w3schools.com/html/
-- ...
-- ...
+- [Recap of HTML Tree](http://web.simmons.edu/~grabiner/comm244/weekfour/document-tree.html)
+- [CSS Descendant Selector](https://www.w3schools.com/css/css_combinators.asp)
+- [CSS Basic Colors](https://www.w3schools.com/css/css_colors.asp)
+- [CSS Standard Names](https://www.w3schools.com/colors/colors_names.asp)
+- [CSS Text](https://www.w3schools.com/css/css_text.asp)
+- [CSS Font](https://www.w3schools.com/css/css_font.asp)
+- [Safe Web Fonts](https://www.w3schools.com/css/css_font_websafe.asp)
