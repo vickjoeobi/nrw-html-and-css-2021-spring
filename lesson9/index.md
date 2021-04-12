@@ -53,7 +53,7 @@ ETA: 30 mins (Students should have enough time to practice)
 A crucial role on all websites plays the font. It can give a totally different look and feel on your website. This section covers:
 
 - What are the different generic [font families](https://www.w3schools.com/css/css_font.asp)?
-- What are the [safe web fonts](https://www.w3schools.com/css/css_font_websafe.asp)?
+- What are the [Web Safe Fonts](https://www.w3schools.com/css/css_font_websafe.asp)?
 - Why is it important to have fallback fonts?
 - What is the CSS [`font-style`](https://www.w3schools.com/css/css_font_style.asp) rule doing?
 - How can we inspect which font-family is used on a page?
