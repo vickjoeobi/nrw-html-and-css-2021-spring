@@ -1,15 +1,16 @@
 body {
-    background-color: grey;
+  background-color: grey;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 #about {
-    background-color: peachpuff;
+  background-color: peachpuff;
 }
 
 #proficiency {
-    background-color: peachpuff;
+  background-color: peachpuff;
 }
 
 .section {
-    background-color: paleturquoise;
+  background-color: paleturquoise;
 }
