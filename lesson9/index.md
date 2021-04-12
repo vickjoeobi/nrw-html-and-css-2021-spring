@@ -66,6 +66,11 @@ Exercises should be done along with the content of the lecture. After completing
 
 - Applying font on the page
 - Text aligning the content of the footer
+- Adding a dedicated class for our `<a>` tags which are placed withing the navigation via a `descendant selector`. Also applying `text-decoration` and `color` css rules
+- Applying a CSS comment on the `nav a` selector
+- Adding basic border coloring on the `section`
+- Adding text indentation to our section paragraphs
+- Adding text shadow in our `#greeting` element
 
 # Glossary & Terminology
 
@@ -77,6 +82,7 @@ Exercises should be done along with the content of the lecture. After completing
 # Homework
 
 - Read more about different web font families [here](https://www.hostinger.com/tutorials/best-html-web-fonts). Get to know what the different companies are using
+- (Optional) Check out the nice [CSS tricks](https://css-tricks.com/almanac/properties/t/text-shadow/) with text shadow
 
 # Resources
 
