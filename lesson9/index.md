@@ -82,6 +82,7 @@ Exercises should be done along with the content of the lecture. After completing
 # Homework
 
 - Read more about different web font families [here](https://www.hostinger.com/tutorials/best-html-web-fonts). Get to know what the different companies are using
+- Make sure to use your own image / photo on your websites
 - (Optional) Check out the nice [CSS tricks](https://css-tricks.com/almanac/properties/t/text-shadow/) with text shadow
 
 # Resources
