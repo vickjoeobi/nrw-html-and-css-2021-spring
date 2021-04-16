@@ -5,9 +5,6 @@ nav_order: 11
 
 # CSS Icons Links and Lists
 
-This session teaches CSS icons, links and lists that is within the scope of our CV Project website. The exercise could use the content of checkpoint 10 and could also add new content to the CV website. It is believed that Icons, links and list are also important elements to be used in writing and designing a quality CV project website. Please further confusion about this should be cleared through Angel or Seun. 
-
-> If there are cases where the students have a preference for the design beign taught in terms of icons or link design method, this can also be considered.
 
 ## Class Agenda
 
@@ -18,9 +15,9 @@ This session teaches CSS icons, links and lists that is within the scope of our 
 
 This section teaches students how to deciorate various links found on the website. This includes but not Menu links, External links etc. The section covers:
 
-- What are the various states that a link can be styled?
-- How do we style the link in various states?
-- How do we add various `text-decoration` to links?
+- Explain the various states that a link can exist in (e.g Visited, Hover, Focus, Active)
+- How do we style the link in various states using CSS Pseudo-classes?
+- Explain that browsers apply `default styles` on links.
 - How do we add background color to links?
 - How do we convert links to buttons, and style them with CSS?
 
@@ -32,8 +29,8 @@ ETA: 50min
 This section is all about Lists. Either creating lisits using CSS or designing the already created HTML list. This is important because in the process of designing webpages, lists are always used. This section covers:
 
 - Recap of HTML list
-- Different list Item makers such as Circle, square, upper-roman etc. 
-- customizing list item makers with image
+- Different list Item makers such as Circle, square, upper-roman etc. (using `list-style-type`) 
+- Customizing list item makers with image (using `list-style-image`)
 - Changing list styles such as position of list item Marker, Changing the default style etc.
 - Styling the list colours.
 
