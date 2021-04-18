@@ -31,8 +31,7 @@ This section is all about Lists. Either creating lisits using CSS or designing t
 - Recap of HTML list
 - Different list Item makers such as Circle, square, upper-roman etc. (using `list-style-type`) 
 - Customizing list item makers with image (using `list-style-image`)
-- Changing list styles such as position of list item Marker, Changing the default style etc.
-- Styling the list colours.
+- Changing list styles such as positioning of the list item marker, changing the default style, using different list colours and others.
 
 ETA: 45mins
 
