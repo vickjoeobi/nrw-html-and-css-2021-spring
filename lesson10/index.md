@@ -38,7 +38,7 @@ ETA: 45mins
 
 # Exercise Description
 
-Exercises should be done along each sections and making the students repeat some process and adding their own styles.
+Exercises should be done along each section and should help students add their own styles.
 
 This lesson can add new content to the CV website since all these are expected to be consumed within it.
 
