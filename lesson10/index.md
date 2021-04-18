@@ -8,7 +8,7 @@ nav_order: 11
 
 ## Class Agenda
 
-1. CSS Link styling
+1. CSS Link Styling
 2. CSS List Styling
 
 ## 1. CSS Link Sytling
