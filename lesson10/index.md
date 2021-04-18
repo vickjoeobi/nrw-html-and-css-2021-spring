@@ -17,7 +17,7 @@ This section teaches students how to decorate various links via CSS. This includ
 
 - What are the various states that a link can have (e.g Visited, Hover, Focus, Active)?
 - How do we style the link in various states using CSS Pseudo-classes?
-- Explain that browsers apply `default styles` on links.
+- What are the `default styles`, which are applied by the browser to links?
 - How do we add background color to links?
 - How do we convert links to buttons, and style them with CSS?
 
