@@ -3,7 +3,7 @@ title: Lesson 11 - CSS Links and Lists
 nav_order: 11
 ---
 
-# CSS Icons Links and Lists
+# CSS Links and Lists
 
 
 ## Class Agenda
