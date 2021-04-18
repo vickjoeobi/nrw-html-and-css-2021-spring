@@ -15,7 +15,7 @@ nav_order: 11
 
 This section teaches students how to decorate various links via CSS. This includes menu links, external links  and others. In particular, the section covers the following points:
 
-- Explain the various states that a link can exist in (e.g Visited, Hover, Focus, Active)
+- What are the various states that a link can have (e.g Visited, Hover, Focus, Active)?
 - How do we style the link in various states using CSS Pseudo-classes?
 - Explain that browsers apply `default styles` on links.
 - How do we add background color to links?
