@@ -26,7 +26,7 @@ ETA: 50min
 
 ## 2. CSS Lists Styling
 
-This section is all about Lists. Either creating lisits using CSS or designing the already created HTML list. This is important because in the process of designing webpages, lists are always used. This section covers:
+An important aspect of a webpage design is styling lists. Therefore this section teaches students how to create lists using CSS. Moreover, students learn how to design an already created HTML list. In particular the section covers the following points:
 
 - Recap of HTML list
 - Different list Item makers such as Circle, square, upper-roman etc. (using `list-style-type`) 
