@@ -13,7 +13,7 @@ nav_order: 11
 
 ## 1. CSS Link Sytling
 
-This section teaches students how to deciorate various links found on the website. This includes but not Menu links, External links etc. The section covers:
+This section teaches students how to decorate various links via CSS. This includes menu links, external links  and others. In particular, the section covers the following points:
 
 - Explain the various states that a link can exist in (e.g Visited, Hover, Focus, Active)
 - How do we style the link in various states using CSS Pseudo-classes?
