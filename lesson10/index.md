@@ -19,7 +19,7 @@ This section teaches students how to decorate various links via CSS. This includ
 - How do we style the link in various states using CSS Pseudo-classes?
 - What are the `default styles`, which are applied by the browser to links?
 - How do we add background color to links?
-- How do we convert links to buttons, and style them with CSS? example converting links of Navigation to button like. 
+- How do we convert links to buttons, and style them with CSS? For example, designing navigation links as button. 
 
 ETA: 50min
 
