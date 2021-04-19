@@ -62,6 +62,10 @@ a:link, a:visited {
   display: inline-block;
 }
 
+/*
+ * :active MUST come after :hover (if present) in the CSS definition in order to be effective!
+ * More info at https://www.w3schools.com/cssref/sel_active.asp 
+ */
 a:hover, a:active {
   background-color: rgb(153, 160, 153);
   color: rgb(255, 255, 255);
