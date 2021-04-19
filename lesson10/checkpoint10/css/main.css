@@ -67,6 +67,6 @@ a:link, a:visited {
  * More info at https://www.w3schools.com/cssref/sel_active.asp 
  */
 a:hover, a:active {
-  background-color: rgb(153, 160, 153);
-  color: rgb(255, 255, 255);
+  background-color: cadetblue;
+  color: white;
 }
