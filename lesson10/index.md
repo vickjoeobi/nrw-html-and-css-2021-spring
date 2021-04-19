@@ -53,7 +53,6 @@ Therefore, Checkpoint 10 will be used in the beginning of lesson 11.
 # Homework
 
 1. Create html links and decorate them based on all the link states. 
-2. For your homework, please look at this screenshot of a shopping list and write the corresponding HTML and CSS to create a page that contains the list as displayed in the screenshot. 
 
 # Resources
 
