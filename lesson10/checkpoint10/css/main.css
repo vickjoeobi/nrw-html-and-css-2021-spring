@@ -49,6 +49,11 @@ ul.main-menu {
   padding: 0;
 }
 
+/* The `link` pseudo-class applies styles to unvisited links. 
+ * If you visit or have visited this link, then the `link` pseudo class
+ * is not going to get triggered anymore unless you to clear your browser history.
+ * - In our case we use the same styles for both visited and unvisited links.
+ */
 a:link, a:visited {
   color: black;
   padding: 10px 20px;
